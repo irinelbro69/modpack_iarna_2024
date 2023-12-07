@@ -1,0 +1,86 @@
+{
+  "SA:MP Chat": {
+    "type": "chat",
+    "color": "ffffff"
+  },
+  "/sms": {
+    "type": "find",
+    "color": "ffff00",
+    "cmd": "reply",
+    "filter": [
+      {
+        "color": "ffff00",
+        "rule": " ",
+        "hide": 0
+      },
+      {
+        "color": "000000",
+        "rule": "sent",
+        "hide": 0
+      }
+    ]
+  },
+  "/c /f": {
+    "type": "find",
+    "color": "2295b5",
+    "cmd": "f",
+    "filter": [
+      {
+        "color": "2295b5",
+        "rule": " ",
+        "hide": 0
+      },
+      {
+        "color": "27d0d5",
+        "rule": " ",
+        "hide": 0
+      },
+      {
+        "color": "000000",
+        "rule": "CLAN",
+        "hide": 0
+      }
+    ]
+  },
+  "/wt": {
+    "type": "regex",
+    "color": "d5eaff",
+    "cmd": "wt",
+    "filter": [
+      {
+        "color": "d5eaff",
+        "rule": " ",
+        "hide": 0
+      }
+    ]
+  },
+  "/ad /news": {
+    "type": "find",
+    "color": "00ff00",
+    "cmd": "",
+    "filter": [
+      {
+        "color": "00ff00",
+        "rule": " ",
+        "hide": 0
+      },
+      {
+        "color": "f97804",
+        "rule": " ",
+        "hide": 0
+      }
+    ]
+  },
+  "@mention": {
+    "type": "find",
+    "color": "dfa4d3",
+    "cmd": "e",
+    "filter": [
+      {
+        "color": "000000",
+        "rule": " moduri.ro",
+        "hide": 0
+      }
+    ]
+  }
+}
