@@ -5,17 +5,32 @@
  Copyright (c) 2016, BlastHack Team
  http://blast.hk/moonloader/
 
-[15:09:29.040086] (debug)	Module handle: 0x66800000
-[15:09:29.041087] (info)	Working directory: D:\modpack_iarna_2024\moonloader
-[15:09:29.041087] (debug)	FP Control: 0x0009001F
-[15:09:29.041087] (debug)	Windows: 10.0.19045 2
-[15:09:29.041087] (debug)	Game: GTA SA 1.0 US 'HoodLum'
-[15:09:29.041087] (system)	Installing pre-game hooks...
-[15:09:29.047086] (system)	Hooks installed.
-[15:09:30.692426] (debug)	Opcode handler table: 0x6e59e9b8
-[15:09:30.692426] (debug)	LUA_PATH = D:\modpack_iarna_2024\moonloader\libstd\?.lua;D:\modpack_iarna_2024\moonloader\libstd\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?.lua;D:\modpack_iarna_2024\moonloader\lib\?.luac;D:\modpack_iarna_2024\moonloader\lib\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?\init.luac
-[15:09:30.693426] (debug)	LUA_CPATH = D:\modpack_iarna_2024\moonloader\libstd\?.dll;D:\modpack_iarna_2024\moonloader\lib\?.dll
-[15:09:41.483046] (system)	Installing post-load hooks...
-[15:09:41.483046] (system)	Hooks installed.
-[15:09:44.883381] (system)	Unloading...
-[15:09:44.889384] (system)	Session terminated.
+[15:45:24.773105] (debug)	Module handle: 0x55240000
+[15:45:24.774106] (info)	Working directory: D:\modpack_iarna_2024\moonloader
+[15:45:24.774106] (debug)	FP Control: 0x0009001F
+[15:45:24.774106] (debug)	Windows: 10.0.19045 2
+[15:45:24.774106] (debug)	Game: GTA SA 1.0 US 'HoodLum'
+[15:45:24.774106] (system)	Installing pre-game hooks...
+[15:45:24.776103] (system)	Hooks installed.
+[15:45:26.354091] (debug)	Opcode handler table: 0x6597e9b8
+[15:45:26.354091] (debug)	LUA_PATH = D:\modpack_iarna_2024\moonloader\libstd\?.lua;D:\modpack_iarna_2024\moonloader\libstd\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?.lua;D:\modpack_iarna_2024\moonloader\lib\?.luac;D:\modpack_iarna_2024\moonloader\lib\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?\init.luac
+[15:45:26.354091] (debug)	LUA_CPATH = D:\modpack_iarna_2024\moonloader\libstd\?.dll;D:\modpack_iarna_2024\moonloader\lib\?.dll
+[15:45:26.368093] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:1)
+[15:45:26.385093] (system)	HassleHUD: Loaded successfully.
+[15:45:37.096502] (system)	Installing post-load hooks...
+[15:45:37.096502] (system)	Hooks installed.
+[15:45:54.955316] (system)	HassleHUD: Script terminated. (id:1)
+[15:45:54.960313] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:2)
+[15:45:54.975317] (system)	HassleHUD: Loaded successfully.
+[15:46:46.891113] (system)	HassleHUD: Script terminated. (id:2)
+[15:46:46.898114] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:3)
+[15:46:46.913115] (system)	HassleHUD: Loaded successfully.
+[15:49:24.348929] (system)	HassleHUD: Script terminated. (id:3)
+[15:49:24.353927] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:4)
+[15:49:24.368929] (system)	HassleHUD: Loaded successfully.
+[15:50:45.786491] (system)	HassleHUD: Script terminated. (id:4)
+[15:50:45.791492] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:5)
+[15:50:45.806493] (system)	HassleHUD: Loaded successfully.
+[15:55:46.123585] (system)	Unloading...
+[15:55:46.123585] (system)	HassleHUD: Script terminated. (id:5)
+[15:55:46.132588] (system)	Session terminated.
