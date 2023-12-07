@@ -1,0 +1,21 @@
+
+ MoonLoader v.027.0-preview3 loaded.
+ Developers: FYP, hnnssy, EvgeN 1137
+
+ Copyright (c) 2016, BlastHack Team
+ http://blast.hk/moonloader/
+
+[15:09:29.040086] (debug)	Module handle: 0x66800000
+[15:09:29.041087] (info)	Working directory: D:\modpack_iarna_2024\moonloader
+[15:09:29.041087] (debug)	FP Control: 0x0009001F
+[15:09:29.041087] (debug)	Windows: 10.0.19045 2
+[15:09:29.041087] (debug)	Game: GTA SA 1.0 US 'HoodLum'
+[15:09:29.041087] (system)	Installing pre-game hooks...
+[15:09:29.047086] (system)	Hooks installed.
+[15:09:30.692426] (debug)	Opcode handler table: 0x6e59e9b8
+[15:09:30.692426] (debug)	LUA_PATH = D:\modpack_iarna_2024\moonloader\libstd\?.lua;D:\modpack_iarna_2024\moonloader\libstd\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?.lua;D:\modpack_iarna_2024\moonloader\lib\?.luac;D:\modpack_iarna_2024\moonloader\lib\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?\init.luac
+[15:09:30.693426] (debug)	LUA_CPATH = D:\modpack_iarna_2024\moonloader\libstd\?.dll;D:\modpack_iarna_2024\moonloader\lib\?.dll
+[15:09:41.483046] (system)	Installing post-load hooks...
+[15:09:41.483046] (system)	Hooks installed.
+[15:09:44.883381] (system)	Unloading...
+[15:09:44.889384] (system)	Session terminated.
