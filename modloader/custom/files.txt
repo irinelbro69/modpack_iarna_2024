@@ -1,0 +1,2 @@
+COLFILE 0 MODLOADER\custom\bugged.ro pe vinewood\gta3img\bugged.col
+COLFILE 0 MODLOADER\custom\obiecte craciun (decoratiuni idk)\gta3img\craciun.col

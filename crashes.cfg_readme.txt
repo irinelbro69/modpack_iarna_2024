@@ -1,0 +1,17 @@
+brightness - the brightness setting can adjust your brightness at a much higher and lower rate than the regular ingame brightness, thats why it was added.
+if it's set to -1, it will use your ingame brightness bar to adjust your brightness, only change it from -1 if setting to the max brightness ingame is not bright enough, or you want to fine tune it more than the ingame setting can provide
+this also fixes brightness not working in Windows 8
+
+mousefix - this setting fixes a windows 8 only problem of sometimes after an alt tab being able to see the mouse cursor over GTA:SA, disable if you're not using windows 8
+shadows - enable or disables volumetric shadows, AKA the shitty shadows that lag even the best of PC's. run your game on very high FX quality without those shadows that looked ugly, and lagged your game anyway!
+heathaze - enable or disable heat haze.
+sound - set to 0 to disable all ingame sound.
+vehiclelighting - set to 0 to disable vehicle lighting.
+specularvehicle - set to 0 to disable specular vehicle lighting.
+targetblip - set to 0 to disable target blip above peds heads when aiming at them.
+clouds - set to 0 to disable all clouds
+flashes - set to 0 to disable flashes
+fixblackroads - set to 1 to fix black roads on some PC's off in the distance
+interiorreflections - set to 0 to disable interior reflections
+fpslimit - set to 1 to enable the removal of SA-MP's internal FPS limiting code. By default, you can't get over 100 fps. set to 0 to disable this. (NOTE: This may cause issues with newer SA-MP releases).
+nopostfx - set to 1 to disable post effects.
