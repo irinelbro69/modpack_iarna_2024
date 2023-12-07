@@ -1,0 +1,1 @@
+local utils = require('lib.utils') function main() while true do wait(40) if isKeyDown(17) and isKeyDown(82) then while isKeyDown(17) and isKeyDown(82) do wait(80) end reloadScripts() end end end
