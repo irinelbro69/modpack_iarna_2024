@@ -11,3 +11,4 @@ SAMPUninstall.exe
 cleo.log
 SAMPFUNCS/SAMPFUNCS.log
 modloader/modloader.log
+cleo/TestTaxiLS.cs
