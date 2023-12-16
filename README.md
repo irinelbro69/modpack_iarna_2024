@@ -1,5 +1,6 @@
 # Modpack iarna 2024
 ![idk](https://cdn.discordapp.com/attachments/1099794450366087360/1185287367398010880/image.png?ex=658f0fe1&is=657c9ae1&hm=ea391a22a9fa7e7936493531700ad61b9a6a783226ecc60c178c1e56c1b79f4b&)
+### Cel mai misto server de SA:MP? Intra pe blue! [click pentru a aduga blue.bugged.ro in clientul SA:MP](samp://blue.bugged.ro:7777)
 ### Ce contine modpack-ul?
 - zapada pe jos (HD)
 - ninsoare (vezi mai jos)
@@ -62,7 +63,7 @@
 6. Dupa ce am descarcat .zip-ul cu modpack-ul, va trebui sa extragem absolut TOATE fisierele din arhiva peste folderul cu jocul unde am pus GTA-ul curat.
 7. Atunci cand apare fereastra **Confirm File Replace** va trebui sa dam click pe **Yes to All** pentru a incepe extragerea (ss mai jos).
 ![idk](https://i.imgur.com/bkHRo8x.png)
-8. Acum va trebui sa mergem in folderul unde se afla jocul si sa extragem arhiva **data.zip** folosind (click dreata > **Extract here**).<br>
+8. Acum va trebui sa mergem in folderul unde se afla jocul si sa extragem arhiva **data.zip** folosind (click dreapta > **Extract here**).<br>
 ![idk](https://i.imgur.com/xqeVO0N.png)
 9. Si, in final, dupa ce deschideti clientul SA:MP va trebui sa selectati folderul cu jocul pentru a putea intra pe SA:MP.<br>
 ![idk](https://i.imgur.com/SWfw3r9.png)
