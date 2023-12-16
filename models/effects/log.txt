@@ -1,0 +1,1835 @@
+Loading PNG texture "models\effects\blckbgef\bltsmk1.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk10.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk11.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk12.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk13.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk14.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk15.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk16.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk17.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk18.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk19.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk2.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk20.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk21.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk22.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk23.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk3.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk4.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk5.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk6.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk7.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk8.png"
+Loading PNG texture "models\effects\blckbgef\bltsmk9.png"
+Loading PNG texture "models\effects\blckbgef\crdbxdbr_1.png"
+Loading PNG texture "models\effects\blckbgef\crdbxdbr_2.png"
+Loading PNG texture "models\effects\blckbgef\grbg1.png"
+Loading PNG texture "models\effects\blckbgef\grbg2.png"
+Loading PNG texture "models\effects\blckbgef\vomit2.png"
+Loading PNG texture "models\effects\blood_heli\bullethitsmoke1.png"
+Removing old texture "bullethitsmoke1"
+Loading PNG texture "models\effects\blood_heli\sphere.png"
+Removing old texture "sphere"
+Loading PNG texture "models\effects\blt_smk\collisionsmoke.png"
+Removing old texture "collisionsmoke"
+Loading PNG texture "models\effects\blt_snd\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\blt_wdd\wdddbrs1.png"
+Loading PNG texture "models\effects\blt_wdd\wdddbrs2.png"
+Loading PNG texture "models\effects\boat_prop\hlwtsplh2.png"
+Loading PNG texture "models\effects\boat_prop\watrspl2.png"
+Loading PNG texture "models\effects\boat_prop\wtdrpx.png"
+Loading PNG texture "models\effects\camflash\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\carwashspray\bullethitsmoke.png"
+Removing old texture "bullethitsmoke"
+Loading PNG texture "models\effects\cement\cement.png"
+Removing old texture "cement"
+Loading PNG texture "models\effects\cement\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\cigarette_smoke\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\cloudfast\bullethitsmoke1.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test\cl1.png"
+Loading PNG texture "models\effects\cl_test\cl2.png"
+Loading PNG texture "models\effects\cl_test\cl3.png"
+Loading PNG texture "models\effects\cl_test\cl4.png"
+Loading PNG texture "models\effects\cl_test\cl5.png"
+Loading PNG texture "models\effects\cl_test\cl6.png"
+Loading PNG texture "models\effects\cl_test\cl7.png"
+Loading PNG texture "models\effects\cl_test\cl8.png"
+Loading PNG texture "models\effects\cl_test2\cl10.png"
+Loading PNG texture "models\effects\cl_test2\cl11.png"
+Loading PNG texture "models\effects\cl_test2\cl12.png"
+Loading PNG texture "models\effects\cl_test2\cl13.png"
+Loading PNG texture "models\effects\cl_test2\cl14.png"
+Loading PNG texture "models\effects\cl_test2\cl15.png"
+Loading PNG texture "models\effects\cl_test2\cl16.png"
+Loading PNG texture "models\effects\cl_test2\cl9.png"
+Loading PNG texture "models\effects\cl_test3\cl17.png"
+Loading PNG texture "models\effects\cl_test3\cl18.png"
+Loading PNG texture "models\effects\cl_test3\cl19.png"
+Loading PNG texture "models\effects\cl_test3\cl20.png"
+Loading PNG texture "models\effects\cl_test3\cl21.png"
+Loading PNG texture "models\effects\cl_test3\cl22.png"
+Loading PNG texture "models\effects\cl_test3\cl23.png"
+Loading PNG texture "models\effects\cl_test3\cl24.png"
+Loading PNG texture "models\effects\cl_test4\cl25.png"
+Loading PNG texture "models\effects\cl_test4\cl26.png"
+Loading PNG texture "models\effects\cl_test4\cl27.png"
+Loading PNG texture "models\effects\cl_test4\cl28.png"
+Loading PNG texture "models\effects\cl_test4\cl29.png"
+Loading PNG texture "models\effects\cl_test4\cl30.png"
+Loading PNG texture "models\effects\cl_test4\cl31.png"
+Loading PNG texture "models\effects\cl_test4\cl32.png"
+Loading PNG texture "models\effects\cl_test5\cl1.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl2.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl3.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl4.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl5.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl6.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl7.png" - texture was already loaded.
+Loading PNG texture "models\effects\cl_test5\cl8.png" - texture was already loaded.
+Loading PNG texture "models\effects\coke_puff\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\coke_trail\bullethitsmoke1.png" - texture was already loaded.
+Loading PNG texture "models\effects\dbr_smoke\cardb10.png"
+Loading PNG texture "models\effects\dbr_smoke\cardb11.png"
+Loading PNG texture "models\effects\dbr_smoke\cardb12.png"
+Loading PNG texture "models\effects\dbr_smoke\cardb5.png"
+Loading PNG texture "models\effects\dbr_smoke\cardb6.png"
+Loading PNG texture "models\effects\dbr_smoke\glsdbr_4.png"
+Loading PNG texture "models\effects\dbr_smoke\glsdbr_6.png"
+Loading PNG texture "models\effects\dbr_smoke2\cardb11.png" - texture was already loaded.
+Loading PNG texture "models\effects\dbr_smoke2\cardb7.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_1.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_10.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_11.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_12.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_13.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_14.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_15.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_16.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_17.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_18.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_19.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_2.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_20.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_21.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_22.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_23.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_24.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_25.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_26.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_27.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_28.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_3.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_4.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_5.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_6.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_7.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_8.png"
+Loading PNG texture "models\effects\dbr_smoke2\drssmk2_9.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_1.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_10.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_11.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_12.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_13.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_14.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_15.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_16.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_17.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_18.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_19.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_2.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_20.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_21.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_22.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_23.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_24.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_25.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_26.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_27.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_28.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_3.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_4.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_5.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_6.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_7.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_8.png"
+Loading PNG texture "models\effects\dbr_smoke2\drtsmk1_9.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_1.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_10.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_11.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_12.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_13.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_14.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_15.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_16.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_17.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_18.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_19.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_2.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_20.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_21.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_22.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_23.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_24.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_25.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_26.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_27.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_28.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_3.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_4.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_5.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_6.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_7.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_8.png"
+Loading PNG texture "models\effects\dbr_smoke2\nwpfsmk_9.png"
+Loading PNG texture "models\effects\edgfm\edgfm_1.png"
+Loading PNG texture "models\effects\edgfm\edgfm_2.png"
+Loading PNG texture "models\effects\edgfm\edgfm_3.png"
+Loading PNG texture "models\effects\edgfm2\edgfm_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm2\edgfm_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm2\edgfm_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm3\edgfm_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm3\edgfm_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm3\edgfm_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm4\edgfm_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm4\edgfm_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm4\edgfm_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm5\edgfm_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm5\edgfm_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm5\edgfm_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm6\edgfm2_1.png"
+Loading PNG texture "models\effects\edgfm6\edgfm2_2.png"
+Loading PNG texture "models\effects\edgfm6\edgfm2_3.png"
+Loading PNG texture "models\effects\edgfm7\edgfm2_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm7\edgfm2_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\edgfm7\edgfm2_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\exhale\smokeII_3.png"
+Removing old texture "smokeII_3"
+Loading PNG texture "models\effects\exh_smk\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_barrel\cardebris_01.png"
+Removing old texture "cardebris_01"
+Loading PNG texture "models\effects\explosion_barrel\cardebris_02.png"
+Removing old texture "cardebris_02"
+Loading PNG texture "models\effects\explosion_barrel\cardebris_03.png"
+Removing old texture "cardebris_03"
+Loading PNG texture "models\effects\explosion_barrel\cardebris_04.png"
+Removing old texture "cardebris_04"
+Loading PNG texture "models\effects\explosion_barrel\cardebris_05.png"
+Removing old texture "cardebris_05"
+Loading PNG texture "models\effects\explosion_barrel\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk1.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk10.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk11.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk12.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk13.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk14.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk15.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk16.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk17.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk18.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk19.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk2.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk20.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk21.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk22.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk23.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk3.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk4.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk5.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk6.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk7.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk8.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\bltsmk9.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\crdbxdbr_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\crdbxdbr_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_crate\crdbxdbr_3.png"
+Loading PNG texture "models\effects\explosion_crate\vomit2.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_door\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_door\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_fuel_car\cardb3.png"
+Loading PNG texture "models\effects\explosion_fuel_car\cardb6.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_fuel_car\cardb7.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_fuel_car\fr_spk.png"
+Loading PNG texture "models\effects\explosion_fuel_car\glsdbr_5.png"
+Loading PNG texture "models\effects\explosion_large\cardb6.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_large\cardb7.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_large\lrgexpl_1.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_10.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_11.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_12.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_13.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_15.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_16.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_17.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_18.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_19.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_2.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_20.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_21.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_22.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_23.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_24.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_25.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_26.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_27.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_28.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_29.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_3.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_30.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_31.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_32.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_33.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_34.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_35.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_36.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_37.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_38.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_39.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_4.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_40.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_41.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_42.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_43.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_44.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_45.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_5.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_6.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_7.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_8.png"
+Loading PNG texture "models\effects\explosion_large\lrgexpl_9.png"
+Loading PNG texture "models\effects\explosion_large\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_medium\carexpl_1.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_10.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_11.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_12.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_13.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_14.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_15.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_16.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_17.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_18.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_19.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_2.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_20.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_21.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_22.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_23.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_24.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_25.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_26.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_27.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_28.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_3.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_4.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_5.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_6.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_7.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_8.png"
+Loading PNG texture "models\effects\explosion_medium\carexpl_9.png"
+Loading PNG texture "models\effects\explosion_medium\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_medium\collisionsmoke2.png"
+Loading PNG texture "models\effects\explosion_medium\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_molotov\glsdbr_1.png"
+Loading PNG texture "models\effects\explosion_molotov\glsdbr_2.png"
+Loading PNG texture "models\effects\explosion_molotov\glsdbr_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_1.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_10.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_11.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_12.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_13.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_14.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_15.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_16.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_17.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_18.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_19.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_2.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_20.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_21.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_22.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_23.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_24.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_25.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_26.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_27.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_28.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_3.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_4.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_5.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_6.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_7.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_8.png"
+Loading PNG texture "models\effects\explosion_molotov\mlfl2_9.png"
+Loading PNG texture "models\effects\explosion_molotov\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_pmp\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_1.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_10.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_11.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_12.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_13.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_14.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_15.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_16.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_17.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_18.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_19.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_2.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_20.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_21.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_22.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_23.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_24.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_25.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_26.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_27.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_28.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_3.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_4.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_5.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_6.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_7.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_8.png"
+Loading PNG texture "models\effects\explosion_pmp\exlmsl_9.png"
+Loading PNG texture "models\effects\explosion_pmp\pointlight.png"
+Removing old texture "pointlight"
+Loading PNG texture "models\effects\explosion_pmp\smk1.png"
+Loading PNG texture "models\effects\explosion_pmp\smkfr1.png"
+Loading PNG texture "models\effects\explosion_small\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_small\rckexpl_1.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_10.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_11.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_12.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_14.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_15.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_16.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_17.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_18.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_19.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_2.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_20.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_21.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_22.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_23.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_24.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_25.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_26.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_27.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_28.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_3.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_4.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_5.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_6.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_7.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_8.png"
+Loading PNG texture "models\effects\explosion_small\rckexpl_9.png"
+Loading PNG texture "models\effects\explosion_small\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_tiny\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\explosion_tiny\fireball6.png"
+Removing old texture "fireball6"
+Loading PNG texture "models\effects\extinguisher\frexstng.png"
+Loading PNG texture "models\effects\ex_grnd\cardb5.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_grnd\cardb6.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_grnd\cardb7.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_grnd\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_grnd\grndex_1.png"
+Loading PNG texture "models\effects\ex_grnd\grndex_2.png"
+Loading PNG texture "models\effects\ex_grnd\grndex_3.png"
+Loading PNG texture "models\effects\ex_grnd\grndex_4.png"
+Loading PNG texture "models\effects\ex_grnd\grndex_5.png"
+Loading PNG texture "models\effects\ex_grnd\grndex_6.png"
+Loading PNG texture "models\effects\ex_grnd\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\exlmsl_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckmsl\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\rckexpl_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_rckt\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_undwtr\hlwtsplh6.png"
+Loading PNG texture "models\effects\ex_undwtr\rain3.png"
+Loading PNG texture "models\effects\ex_undwtr\whlwtsp1.png"
+Loading PNG texture "models\effects\ex_undwtr\wtdrpx.png" - texture was already loaded.
+Loading PNG texture "models\effects\ex_undwtr\wtsplup.png"
+Loading PNG texture "models\effects\ex_undwtr\wtsplup2.png"
+Loading PNG texture "models\effects\fire\fr2_1.png"
+Loading PNG texture "models\effects\fire\fr2_10.png"
+Loading PNG texture "models\effects\fire\fr2_11.png"
+Loading PNG texture "models\effects\fire\fr2_12.png"
+Loading PNG texture "models\effects\fire\fr2_13.png"
+Loading PNG texture "models\effects\fire\fr2_14.png"
+Loading PNG texture "models\effects\fire\fr2_15.png"
+Loading PNG texture "models\effects\fire\fr2_16.png"
+Loading PNG texture "models\effects\fire\fr2_17.png"
+Loading PNG texture "models\effects\fire\fr2_18.png"
+Loading PNG texture "models\effects\fire\fr2_19.png"
+Loading PNG texture "models\effects\fire\fr2_2.png"
+Loading PNG texture "models\effects\fire\fr2_20.png"
+Loading PNG texture "models\effects\fire\fr2_21.png"
+Loading PNG texture "models\effects\fire\fr2_22.png"
+Loading PNG texture "models\effects\fire\fr2_23.png"
+Loading PNG texture "models\effects\fire\fr2_24.png"
+Loading PNG texture "models\effects\fire\fr2_25.png"
+Loading PNG texture "models\effects\fire\fr2_26.png"
+Loading PNG texture "models\effects\fire\fr2_27.png"
+Loading PNG texture "models\effects\fire\fr2_28.png"
+Loading PNG texture "models\effects\fire\fr2_3.png"
+Loading PNG texture "models\effects\fire\fr2_4.png"
+Loading PNG texture "models\effects\fire\fr2_5.png"
+Loading PNG texture "models\effects\fire\fr2_6.png"
+Loading PNG texture "models\effects\fire\fr2_7.png"
+Loading PNG texture "models\effects\fire\fr2_8.png"
+Loading PNG texture "models\effects\fire\fr2_9.png"
+Loading PNG texture "models\effects\fire\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire\smk1_1.png"
+Loading PNG texture "models\effects\fire\smk1_10.png"
+Loading PNG texture "models\effects\fire\smk1_11.png"
+Loading PNG texture "models\effects\fire\smk1_12.png"
+Loading PNG texture "models\effects\fire\smk1_13.png"
+Loading PNG texture "models\effects\fire\smk1_14.png"
+Loading PNG texture "models\effects\fire\smk1_15.png"
+Loading PNG texture "models\effects\fire\smk1_16.png"
+Loading PNG texture "models\effects\fire\smk1_17.png"
+Loading PNG texture "models\effects\fire\smk1_18.png"
+Loading PNG texture "models\effects\fire\smk1_19.png"
+Loading PNG texture "models\effects\fire\smk1_2.png"
+Loading PNG texture "models\effects\fire\smk1_20.png"
+Loading PNG texture "models\effects\fire\smk1_21.png"
+Loading PNG texture "models\effects\fire\smk1_22.png"
+Loading PNG texture "models\effects\fire\smk1_23.png"
+Loading PNG texture "models\effects\fire\smk1_24.png"
+Loading PNG texture "models\effects\fire\smk1_25.png"
+Loading PNG texture "models\effects\fire\smk1_26.png"
+Loading PNG texture "models\effects\fire\smk1_27.png"
+Loading PNG texture "models\effects\fire\smk1_28.png"
+Loading PNG texture "models\effects\fire\smk1_3.png"
+Loading PNG texture "models\effects\fire\smk1_4.png"
+Loading PNG texture "models\effects\fire\smk1_5.png"
+Loading PNG texture "models\effects\fire\smk1_6.png"
+Loading PNG texture "models\effects\fire\smk1_7.png"
+Loading PNG texture "models\effects\fire\smk1_8.png"
+Loading PNG texture "models\effects\fire\smk1_9.png"
+Loading PNG texture "models\effects\fire_bike\fr1_28.png"
+Loading PNG texture "models\effects\fire_bike\fr2_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_bike\fr2_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_bike\fr2_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_bike\stormsmk.png"
+Loading PNG texture "models\effects\fire_bike\stormsmk2.png"
+Loading PNG texture "models\effects\fire_car\fr1_22.png"
+Loading PNG texture "models\effects\fire_car\fr1_5.png"
+Loading PNG texture "models\effects\fire_car\fr2_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\fr2_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_car\stormsmk.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\fr1_1.png"
+Loading PNG texture "models\effects\fire_large\fr1_10.png"
+Loading PNG texture "models\effects\fire_large\fr1_11.png"
+Loading PNG texture "models\effects\fire_large\fr1_12.png"
+Loading PNG texture "models\effects\fire_large\fr1_13.png"
+Loading PNG texture "models\effects\fire_large\fr1_14.png"
+Loading PNG texture "models\effects\fire_large\fr1_15.png"
+Loading PNG texture "models\effects\fire_large\fr1_16.png"
+Loading PNG texture "models\effects\fire_large\fr1_17.png"
+Loading PNG texture "models\effects\fire_large\fr1_18.png"
+Loading PNG texture "models\effects\fire_large\fr1_19.png"
+Loading PNG texture "models\effects\fire_large\fr1_2.png"
+Loading PNG texture "models\effects\fire_large\fr1_20.png"
+Loading PNG texture "models\effects\fire_large\fr1_21.png"
+Loading PNG texture "models\effects\fire_large\fr1_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\fr1_23.png"
+Loading PNG texture "models\effects\fire_large\fr1_24.png"
+Loading PNG texture "models\effects\fire_large\fr1_25.png"
+Loading PNG texture "models\effects\fire_large\fr1_26.png"
+Loading PNG texture "models\effects\fire_large\fr1_27.png"
+Loading PNG texture "models\effects\fire_large\fr1_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\fr1_3.png"
+Loading PNG texture "models\effects\fire_large\fr1_4.png"
+Loading PNG texture "models\effects\fire_large\fr1_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\fr1_6.png"
+Loading PNG texture "models\effects\fire_large\fr1_7.png"
+Loading PNG texture "models\effects\fire_large\fr1_8.png"
+Loading PNG texture "models\effects\fire_large\fr1_9.png"
+Loading PNG texture "models\effects\fire_large\fr_spk.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_large\smk1_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\fr3_1.png"
+Loading PNG texture "models\effects\fire_med\fr3_10.png"
+Loading PNG texture "models\effects\fire_med\fr3_11.png"
+Loading PNG texture "models\effects\fire_med\fr3_12.png"
+Loading PNG texture "models\effects\fire_med\fr3_13.png"
+Loading PNG texture "models\effects\fire_med\fr3_14.png"
+Loading PNG texture "models\effects\fire_med\fr3_15.png"
+Loading PNG texture "models\effects\fire_med\fr3_16.png"
+Loading PNG texture "models\effects\fire_med\fr3_17.png"
+Loading PNG texture "models\effects\fire_med\fr3_18.png"
+Loading PNG texture "models\effects\fire_med\fr3_19.png"
+Loading PNG texture "models\effects\fire_med\fr3_2.png"
+Loading PNG texture "models\effects\fire_med\fr3_20.png"
+Loading PNG texture "models\effects\fire_med\fr3_21.png"
+Loading PNG texture "models\effects\fire_med\fr3_22.png"
+Loading PNG texture "models\effects\fire_med\fr3_23.png"
+Loading PNG texture "models\effects\fire_med\fr3_24.png"
+Loading PNG texture "models\effects\fire_med\fr3_25.png"
+Loading PNG texture "models\effects\fire_med\fr3_26.png"
+Loading PNG texture "models\effects\fire_med\fr3_27.png"
+Loading PNG texture "models\effects\fire_med\fr3_28.png"
+Loading PNG texture "models\effects\fire_med\fr3_3.png"
+Loading PNG texture "models\effects\fire_med\fr3_4.png"
+Loading PNG texture "models\effects\fire_med\fr3_5.png"
+Loading PNG texture "models\effects\fire_med\fr3_6.png"
+Loading PNG texture "models\effects\fire_med\fr3_7.png"
+Loading PNG texture "models\effects\fire_med\fr3_8.png"
+Loading PNG texture "models\effects\fire_med\fr3_9.png"
+Loading PNG texture "models\effects\fire_med\fr_spk.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_med\smk1_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\fire_ped\frpd_1.png"
+Loading PNG texture "models\effects\fire_ped\frpd_10.png"
+Loading PNG texture "models\effects\fire_ped\frpd_11.png"
+Loading PNG texture "models\effects\fire_ped\frpd_12.png"
+Loading PNG texture "models\effects\fire_ped\frpd_13.png"
+Loading PNG texture "models\effects\fire_ped\frpd_14.png"
+Loading PNG texture "models\effects\fire_ped\frpd_15.png"
+Loading PNG texture "models\effects\fire_ped\frpd_16.png"
+Loading PNG texture "models\effects\fire_ped\frpd_17.png"
+Loading PNG texture "models\effects\fire_ped\frpd_18.png"
+Loading PNG texture "models\effects\fire_ped\frpd_19.png"
+Loading PNG texture "models\effects\fire_ped\frpd_2.png"
+Loading PNG texture "models\effects\fire_ped\frpd_20.png"
+Loading PNG texture "models\effects\fire_ped\frpd_21.png"
+Loading PNG texture "models\effects\fire_ped\frpd_22.png"
+Loading PNG texture "models\effects\fire_ped\frpd_23.png"
+Loading PNG texture "models\effects\fire_ped\frpd_24.png"
+Loading PNG texture "models\effects\fire_ped\frpd_25.png"
+Loading PNG texture "models\effects\fire_ped\frpd_26.png"
+Loading PNG texture "models\effects\fire_ped\frpd_27.png"
+Loading PNG texture "models\effects\fire_ped\frpd_28.png"
+Loading PNG texture "models\effects\fire_ped\frpd_3.png"
+Loading PNG texture "models\effects\fire_ped\frpd_4.png"
+Loading PNG texture "models\effects\fire_ped\frpd_5.png"
+Loading PNG texture "models\effects\fire_ped\frpd_6.png"
+Loading PNG texture "models\effects\fire_ped\frpd_7.png"
+Loading PNG texture "models\effects\fire_ped\frpd_8.png"
+Loading PNG texture "models\effects\fire_ped\frpd_9.png"
+Loading PNG texture "models\effects\fire_ped\pointlight_bl.png"
+Loading PNG texture "models\effects\firhyd_ex\frhyrp1.png"
+Loading PNG texture "models\effects\firhyd_ex\frhyrp2.png"
+Loading PNG texture "models\effects\firhyd_ex\frhyrp3.png"
+Loading PNG texture "models\effects\Flame\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\flamethrower\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\flamethrower\flmtst1.png"
+Loading PNG texture "models\effects\flamethrower\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\flamethrower\smkfr1.png" - texture was already loaded.
+Loading PNG texture "models\effects\ft_splush\frhyrp1.png" - texture was already loaded.
+Loading PNG texture "models\effects\ft_splush\frhyrp2.png" - texture was already loaded.
+Loading PNG texture "models\effects\ft_splush\frhyrp3.png" - texture was already loaded.
+Loading PNG texture "models\effects\ft_splush\frhyrp4.png"
+Loading PNG texture "models\effects\ft_splush\wtdrpx.png" - texture was already loaded.
+Loading PNG texture "models\effects\gunflash\gnmzl1.png"
+Loading PNG texture "models\effects\gunflash\gnmzl2.png"
+Loading PNG texture "models\effects\gunflash\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\gunsmoke\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\hd_sht\bltsmk16.png" - texture was already loaded.
+Loading PNG texture "models\effects\hd_sht\hdsh1.png"
+Loading PNG texture "models\effects\hd_sht\hdsh2.png"
+Loading PNG texture "models\effects\hd_sht\hdsh3.png"
+Loading PNG texture "models\effects\hd_sht\hdsh4.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_1.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_10.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_11.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_12.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_13.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_2.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_3.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_4.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_5.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_6.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_7.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_8.png"
+Loading PNG texture "models\effects\hd_sht\hdsh_9.png"
+Loading PNG texture "models\effects\heli_dust\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\heli_dust\frhyrp1.png" - texture was already loaded.
+Loading PNG texture "models\effects\heli_dust\frhyrp2.png" - texture was already loaded.
+Loading PNG texture "models\effects\heli_dust\frhyrp4.png" - texture was already loaded.
+Loading PNG texture "models\effects\heli_dust\nothing.png"
+Loading PNG texture "models\effects\heli_dust\wtrckt.png"
+Loading PNG texture "models\effects\insects\insect.png"
+Loading PNG texture "models\effects\jetpack\jetpthr0.png"
+Loading PNG texture "models\effects\jetpack\jetpthr1.png"
+Loading PNG texture "models\effects\jetpack\jetpthr2.png"
+Loading PNG texture "models\effects\jetpack\jetpthr3.png"
+Loading PNG texture "models\effects\jetpack\jetpthr4.png"
+Loading PNG texture "models\effects\jetpack\jetpthr6.png"
+Loading PNG texture "models\effects\jetpack\jetpthr7.png"
+Loading PNG texture "models\effects\jetpack\jetpthr8.png"
+Loading PNG texture "models\effects\jetpack\jetpthr8x.png"
+Loading PNG texture "models\effects\jetpack\pointlight_bl.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr1.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr4.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr5x.png"
+Loading PNG texture "models\effects\jetthrust\jetpthr6.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr7.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr8.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\jetpthr8x.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\jetthrust\wjet6.png"
+Removing old texture "wjet6"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_1.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_10.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_11.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_12.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_13.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_14.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_15.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_16.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_17.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_18.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_19.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_2.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_20.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_21.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_22.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_23.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_24.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_25.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_26.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_27.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_28.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_3.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_4.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_5.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_6.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_7.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_8.png"
+Loading PNG texture "models\effects\main_water_effect\thgenfm_9.png"
+Loading PNG texture "models\effects\main_water_effect\undsnrfl_1.png"
+Loading PNG texture "models\effects\main_water_effect\undsnrfl_2.png"
+Loading PNG texture "models\effects\main_water_effect\wtcirr.png"
+Loading PNG texture "models\effects\molotov_flame\fl_1.png"
+Loading PNG texture "models\effects\molotov_flame\fl_10.png"
+Loading PNG texture "models\effects\molotov_flame\fl_11.png"
+Loading PNG texture "models\effects\molotov_flame\fl_12.png"
+Loading PNG texture "models\effects\molotov_flame\fl_13.png"
+Loading PNG texture "models\effects\molotov_flame\fl_14.png"
+Loading PNG texture "models\effects\molotov_flame\fl_2.png"
+Loading PNG texture "models\effects\molotov_flame\fl_3.png"
+Loading PNG texture "models\effects\molotov_flame\fl_4.png"
+Loading PNG texture "models\effects\molotov_flame\fl_5.png"
+Loading PNG texture "models\effects\molotov_flame\fl_6.png"
+Loading PNG texture "models\effects\molotov_flame\fl_7.png"
+Loading PNG texture "models\effects\molotov_flame\fl_8.png"
+Loading PNG texture "models\effects\molotov_flame\fl_9.png"
+Loading PNG texture "models\effects\molotov_flame\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\bltsmk6.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr1.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr2.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr3.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr4.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr4x.png"
+Loading PNG texture "models\effects\nitro\jetpthr5.png"
+Loading PNG texture "models\effects\nitro\jetpthr5x.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\jetpthr6.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\pointlight_bl.png" - texture was already loaded.
+Loading PNG texture "models\effects\nitro\sphere_low.png"
+Loading PNG texture "models\effects\overheat_car\stormsmk.png" - texture was already loaded.
+Loading PNG texture "models\effects\overheat_car_electric\pointlight.png" - texture was already loaded.
+Loading PNG texture "models\effects\overheat_car_electric\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\overheat_car_electric\waterspark_16.png"
+Removing old texture "waterspark_16"
+Loading PNG texture "models\effects\papersz\grndprp.png"
+Loading PNG texture "models\effects\papersz\pstpr_1.png"
+Loading PNG texture "models\effects\papersz\pstpr_2.png"
+Loading PNG texture "models\effects\papersz\pstpr_3.png"
+Loading PNG texture "models\effects\papersz\pstpr_4.png"
+Loading PNG texture "models\effects\papersz2\grndprp.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz2\pstpr_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz2\pstpr_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz2\pstpr_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz2\pstpr_5.png"
+Loading PNG texture "models\effects\papersz3\grndprp.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz3\pstpr_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz3\pstpr_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz3\pstpr_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\papersz3\pstpr_6.png"
+Loading PNG texture "models\effects\petrolcan\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_blood\bltsmk16.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_blood\bl_1.png"
+Loading PNG texture "models\effects\prt_blood\bl_2.png"
+Loading PNG texture "models\effects\prt_blood\bl_3.png"
+Loading PNG texture "models\effects\prt_blood\bl_4.png"
+Loading PNG texture "models\effects\prt_blood\bl_5.png"
+Loading PNG texture "models\effects\prt_blood\bl_6.png"
+Loading PNG texture "models\effects\prt_blood\bl_7.png"
+Loading PNG texture "models\effects\prt_blood\rddt.png"
+Loading PNG texture "models\effects\prt_blood\rddt2.png"
+Loading PNG texture "models\effects\prt_blood\whdt.png"
+Loading PNG texture "models\effects\prt_boatsplash\hlwtsplh2.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_boatsplash\hlwtsplh3.png"
+Loading PNG texture "models\effects\prt_boatsplash\hlwtsplh4.png"
+Loading PNG texture "models\effects\prt_boatsplash\hlwtsplh6.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_boatsplash\wthy_spl0.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_1.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_10.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_11.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_12.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_13.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_14.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_15.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_16.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_17.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_18.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_19.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_2.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_20.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_21.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_22.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_23.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_24.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_25.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_26.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_27.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_28.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_3.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_4.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_5.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_6.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_7.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_8.png"
+Loading PNG texture "models\effects\prt_boatsplash2\genrfoam2_9.png"
+Loading PNG texture "models\effects\prt_bubble\bubbles.png"
+Removing old texture "bubbles"
+Loading PNG texture "models\effects\prt_cardebris\cardb1.png"
+Loading PNG texture "models\effects\prt_cardebris\cardb2.png"
+Loading PNG texture "models\effects\prt_cardebris\cardb3.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_cardebris\cardb4.png"
+Loading PNG texture "models\effects\prt_cardebris\cardb5.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_cardebris\cardb6.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_cardebris\cardb7.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_collisionsmoke\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_glass\glassmall.png"
+Removing old texture "glassmall"
+Loading PNG texture "models\effects\prt_gunshell\gunshell.png"
+Removing old texture "gunshell"
+Loading PNG texture "models\effects\prt_sand\frexstng.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_sand2\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_smokeII_3_expand\frexstng.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_smoke_huge\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_spark\frx1.png"
+Loading PNG texture "models\effects\prt_spark\frx2.png"
+Loading PNG texture "models\effects\prt_spark\frx3.png"
+Loading PNG texture "models\effects\prt_spark\frx4.png"
+Loading PNG texture "models\effects\prt_spark\frx5.png"
+Loading PNG texture "models\effects\prt_spark\frx6.png"
+Loading PNG texture "models\effects\prt_spark\frx7.png"
+Loading PNG texture "models\effects\prt_spark\fr_sphere.png"
+Loading PNG texture "models\effects\prt_spark_2\frx1.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_spark_2\frx2.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_spark_2\frx3.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_spark_2\fr_sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\prt_splash\rnsp_1.png"
+Loading PNG texture "models\effects\prt_splash\rnsp_2.png"
+Loading PNG texture "models\effects\prt_splash\rnsp_3.png"
+Loading PNG texture "models\effects\prt_splash\rnsp_4.png"
+Loading PNG texture "models\effects\prt_wake\boatwake1.png"
+Removing old texture "boatwake1"
+Loading PNG texture "models\effects\prt_wake\boatwake2.png"
+Loading PNG texture "models\effects\prt_watersplash\whlwtsp4.png"
+Loading PNG texture "models\effects\prt_wheeldirt\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\puke\sphere_low.png" - texture was already loaded.
+Loading PNG texture "models\effects\puke\vomit1.png"
+Loading PNG texture "models\effects\puke\vomit2.png" - texture was already loaded.
+Loading PNG texture "models\effects\rain_dust\rnst_1.png"
+Loading PNG texture "models\effects\rain_dust\rnst_2.png"
+Loading PNG texture "models\effects\rain_dust\rnst_3.png"
+Loading PNG texture "models\effects\rain_dust\rnst_4.png"
+Loading PNG texture "models\effects\rain_dust\rnst_5.png"
+Loading PNG texture "models\effects\rain_dust\rnst_6.png"
+Loading PNG texture "models\effects\rain_dust\rnst_7.png"
+Loading PNG texture "models\effects\rain_dust\rnst_8.png"
+Loading PNG texture "models\effects\rain_normal\rain.png"
+Loading PNG texture "models\effects\rain_normal\rain3.png" - texture was already loaded.
+Loading PNG texture "models\effects\rain_weak\rain.png" - texture was already loaded.
+Loading PNG texture "models\effects\rain_weak\rain3.png" - texture was already loaded.
+Loading PNG texture "models\effects\riot_smoke\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\sand_storm_dust\rnst_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\sand_storm_dust\rnst_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\sand_storm_dust\stormsmk.png" - texture was already loaded.
+Loading PNG texture "models\effects\shootlight\bullethitsmoke1.png" - texture was already loaded.
+Loading PNG texture "models\effects\shootlight\glassmall.png" - texture was already loaded.
+Loading PNG texture "models\effects\shootlight\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\shootlight\waterspark_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\sh_bright\shade.png"
+Loading PNG texture "models\effects\sh_bright2\shade2.png"
+Loading PNG texture "models\effects\smoke30lit\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\smoke30m\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\smoke50lit\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\smoke_flare\smoke4.png"
+Removing old texture "smoke4"
+Loading PNG texture "models\effects\smoke_flare\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\snglr1\ocnglr_1.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_10.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_11.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_12.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_13.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_14.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_15.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_16.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_17.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_18.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_19.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_2.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_20.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_21.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_22.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_23.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_24.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_25.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_26.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_27.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_28.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_3.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_4.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_5.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_6.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_7.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_8.png"
+Loading PNG texture "models\effects\snglr1\ocnglr_9.png"
+Loading PNG texture "models\effects\spraycan\smoke.png"
+Removing old texture "smoke"
+Loading PNG texture "models\effects\stc_foam\genrfoam_10.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_11.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_12.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_13.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_14.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_15.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_16.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_17.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_18.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_19.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_2.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_20.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_21.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_22.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_23.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_24.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_25.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_26.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_27.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_28.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_3.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_4.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_5.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_6.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_7.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_8.png"
+Loading PNG texture "models\effects\stc_foam\genrfoam_9.png"
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam2\genrfoam2_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3\shdrfm_1.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_10.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_11.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_12.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_13.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_14.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_15.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_16.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_17.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_18.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_19.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_2.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_20.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_21.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_22.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_23.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_24.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_25.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_26.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_27.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_28.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_3.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_4.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_5.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_6.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_7.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_8.png"
+Loading PNG texture "models\effects\stc_foam3\shdrfm_9.png"
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\stc_foam3_w\shdrfm_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\sun_sparks\snpx_1.png"
+Loading PNG texture "models\effects\sun_sparks\snpx_2.png"
+Loading PNG texture "models\effects\sun_sparks\snpx_3.png"
+Loading PNG texture "models\effects\sun_sparks\snpx_6.png"
+Loading PNG texture "models\effects\sun_sparks\snpx_7.png"
+Loading PNG texture "models\effects\sun_sparks\snpx_8.png"
+Loading PNG texture "models\effects\tank_fire\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\tank_fire\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\teargas\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\teargasAD\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\teargasAD\grnsmk_1.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_10.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_11.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_12.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_13.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_14.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_15.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_16.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_17.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_18.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_19.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_2.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_20.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_21.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_22.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_23.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_24.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_25.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_26.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_27.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_28.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_3.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_4.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_5.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_6.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_7.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_8.png"
+Loading PNG texture "models\effects\teargasAD\grnsmk_9.png"
+Loading PNG texture "models\effects\teargasAD\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\testin\waves1_1.png"
+Loading PNG texture "models\effects\testin\waves1_10.png"
+Loading PNG texture "models\effects\testin\waves1_11.png"
+Loading PNG texture "models\effects\testin\waves1_12.png"
+Loading PNG texture "models\effects\testin\waves1_13.png"
+Loading PNG texture "models\effects\testin\waves1_14.png"
+Loading PNG texture "models\effects\testin\waves1_15.png"
+Loading PNG texture "models\effects\testin\waves1_16.png"
+Loading PNG texture "models\effects\testin\waves1_17.png"
+Loading PNG texture "models\effects\testin\waves1_18.png"
+Loading PNG texture "models\effects\testin\waves1_19.png"
+Loading PNG texture "models\effects\testin\waves1_2.png"
+Loading PNG texture "models\effects\testin\waves1_20.png"
+Loading PNG texture "models\effects\testin\waves1_21.png"
+Loading PNG texture "models\effects\testin\waves1_22.png"
+Loading PNG texture "models\effects\testin\waves1_23.png"
+Loading PNG texture "models\effects\testin\waves1_24.png"
+Loading PNG texture "models\effects\testin\waves1_25.png"
+Loading PNG texture "models\effects\testin\waves1_26.png"
+Loading PNG texture "models\effects\testin\waves1_27.png"
+Loading PNG texture "models\effects\testin\waves1_28.png"
+Loading PNG texture "models\effects\testin\waves1_3.png"
+Loading PNG texture "models\effects\testin\waves1_4.png"
+Loading PNG texture "models\effects\testin\waves1_5.png"
+Loading PNG texture "models\effects\testin\waves1_6.png"
+Loading PNG texture "models\effects\testin\waves1_7.png"
+Loading PNG texture "models\effects\testin\waves1_8.png"
+Loading PNG texture "models\effects\testin\waves1_9.png"
+Loading PNG texture "models\effects\thunder\thunder.png"
+Loading PNG texture "models\effects\thunder\thunder3.png"
+Loading PNG texture "models\effects\tree_hit_fir\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\tree_hit_palm\gameleaf01_64.png"
+Removing old texture "gameleaf01_64"
+Loading PNG texture "models\effects\undwdst\frx4.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwdst\sphere_CJ.png"
+Removing old texture "sphere_CJ"
+Loading PNG texture "models\effects\undwdst\sphere_low.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwdst\undwgrs.png"
+Loading PNG texture "models\effects\undwdst\undwgrs2.png"
+Loading PNG texture "models\effects\undwdst\undwgrs3.png"
+Loading PNG texture "models\effects\undwdst\undwgrs4.png"
+Loading PNG texture "models\effects\undwrefl\nothing.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl\ocnglr_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl2\nothing.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_10.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_11.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_12.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_13.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_14.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_15.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_16.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_17.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_18.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_19.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_20.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_21.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_22.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_23.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_24.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_25.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_26.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_27.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_3.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_4.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_5.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_6.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_7.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_8.png"
+Loading PNG texture "models\effects\undwrefl2\undsnrfl_9.png"
+Loading PNG texture "models\effects\vent\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\vent2\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\wallbust\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\waterfall_end\bullethitsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_fnt_tme\wgush1.png"
+Removing old texture "wgush1"
+Loading PNG texture "models\effects\water_fnt_tme\wjet2.png"
+Removing old texture "wjet2"
+Loading PNG texture "models\effects\water_fountain\wgush1.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_fountain\wjet2.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_hydrant\sphere_low.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_hydrant\wthy_spl0.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_hydrant\wthy_spl1.png"
+Loading PNG texture "models\effects\water_hydrant\wthy_spl2.png"
+Loading PNG texture "models\effects\water_hydrant\wthy_spl3.png"
+Loading PNG texture "models\effects\water_ripples\wtcrcc.png"
+Loading PNG texture "models\effects\water_speed\boatsplash.png"
+Removing old texture "boatsplash"
+Loading PNG texture "models\effects\water_speed\gensplash.png"
+Removing old texture "gensplash"
+Loading PNG texture "models\effects\water_splash\bltwtsr_1.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_10.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_11.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_12.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_13.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_14.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_15.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_16.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_2.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_3.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_4.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_5.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_6.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_7.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_8.png"
+Loading PNG texture "models\effects\water_splash\bltwtsr_9.png"
+Loading PNG texture "models\effects\water_splash_big\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_splash_big\wrtspl_1.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_10.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_11.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_12.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_13.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_14.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_15.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_16.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_17.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_18.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_19.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_2.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_20.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_21.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_22.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_23.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_24.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_25.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_3.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_4.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_5.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_6.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_7.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_8.png"
+Loading PNG texture "models\effects\water_splash_big\wrtspl_9.png"
+Loading PNG texture "models\effects\water_splsh_sml\hlwtsplh2.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_splsh_sml\sphere.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_splsh_sml\watrspl3.png"
+Loading PNG texture "models\effects\water_swim\boatfm_3.png"
+Loading PNG texture "models\effects\water_swim\genrfoam2_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_swim\watrspl3.png" - texture was already loaded.
+Loading PNG texture "models\effects\water_swim\whlwtsp1.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_1.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_10.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_11.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_12.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_13.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_14.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_15.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_16.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_17.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_18.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_19.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_2.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_20.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_21.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_22.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_23.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_24.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_25.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_26.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_27.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_28.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_29.png"
+Loading PNG texture "models\effects\waves1\waves1_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_30.png"
+Loading PNG texture "models\effects\waves1\waves1_31.png"
+Loading PNG texture "models\effects\waves1\waves1_32.png"
+Loading PNG texture "models\effects\waves1\waves1_33.png"
+Loading PNG texture "models\effects\waves1\waves1_34.png"
+Loading PNG texture "models\effects\waves1\waves1_35.png"
+Loading PNG texture "models\effects\waves1\waves1_36.png"
+Loading PNG texture "models\effects\waves1\waves1_37.png"
+Loading PNG texture "models\effects\waves1\waves1_38.png"
+Loading PNG texture "models\effects\waves1\waves1_39.png"
+Loading PNG texture "models\effects\waves1\waves1_4.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_40.png"
+Loading PNG texture "models\effects\waves1\waves1_41.png"
+Loading PNG texture "models\effects\waves1\waves1_42.png"
+Loading PNG texture "models\effects\waves1\waves1_43.png"
+Loading PNG texture "models\effects\waves1\waves1_44.png"
+Loading PNG texture "models\effects\waves1\waves1_45.png"
+Loading PNG texture "models\effects\waves1\waves1_46.png"
+Loading PNG texture "models\effects\waves1\waves1_47.png"
+Loading PNG texture "models\effects\waves1\waves1_48.png"
+Loading PNG texture "models\effects\waves1\waves1_49.png"
+Loading PNG texture "models\effects\waves1\waves1_5.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_50.png"
+Loading PNG texture "models\effects\waves1\waves1_51.png"
+Loading PNG texture "models\effects\waves1\waves1_52.png"
+Loading PNG texture "models\effects\waves1\waves1_53.png"
+Loading PNG texture "models\effects\waves1\waves1_54.png"
+Loading PNG texture "models\effects\waves1\waves1_55.png"
+Loading PNG texture "models\effects\waves1\waves1_56.png"
+Loading PNG texture "models\effects\waves1\waves1_6.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_7.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves1\waves1_9.png" - texture was already loaded.
+Loading PNG texture "models\effects\waves2\waves2_1.png"
+Loading PNG texture "models\effects\waves2\waves2_10.png"
+Loading PNG texture "models\effects\waves2\waves2_11.png"
+Loading PNG texture "models\effects\waves2\waves2_12.png"
+Loading PNG texture "models\effects\waves2\waves2_13.png"
+Loading PNG texture "models\effects\waves2\waves2_14.png"
+Loading PNG texture "models\effects\waves2\waves2_15.png"
+Loading PNG texture "models\effects\waves2\waves2_16.png"
+Loading PNG texture "models\effects\waves2\waves2_17.png"
+Loading PNG texture "models\effects\waves2\waves2_18.png"
+Loading PNG texture "models\effects\waves2\waves2_19.png"
+Loading PNG texture "models\effects\waves2\waves2_2.png"
+Loading PNG texture "models\effects\waves2\waves2_20.png"
+Loading PNG texture "models\effects\waves2\waves2_21.png"
+Loading PNG texture "models\effects\waves2\waves2_22.png"
+Loading PNG texture "models\effects\waves2\waves2_23.png"
+Loading PNG texture "models\effects\waves2\waves2_24.png"
+Loading PNG texture "models\effects\waves2\waves2_25.png"
+Loading PNG texture "models\effects\waves2\waves2_26.png"
+Loading PNG texture "models\effects\waves2\waves2_27.png"
+Loading PNG texture "models\effects\waves2\waves2_28.png"
+Loading PNG texture "models\effects\waves2\waves2_29.png"
+Loading PNG texture "models\effects\waves2\waves2_3.png"
+Loading PNG texture "models\effects\waves2\waves2_30.png"
+Loading PNG texture "models\effects\waves2\waves2_31.png"
+Loading PNG texture "models\effects\waves2\waves2_32.png"
+Loading PNG texture "models\effects\waves2\waves2_33.png"
+Loading PNG texture "models\effects\waves2\waves2_34.png"
+Loading PNG texture "models\effects\waves2\waves2_35.png"
+Loading PNG texture "models\effects\waves2\waves2_36.png"
+Loading PNG texture "models\effects\waves2\waves2_37.png"
+Loading PNG texture "models\effects\waves2\waves2_38.png"
+Loading PNG texture "models\effects\waves2\waves2_39.png"
+Loading PNG texture "models\effects\waves2\waves2_4.png"
+Loading PNG texture "models\effects\waves2\waves2_40.png"
+Loading PNG texture "models\effects\waves2\waves2_41.png"
+Loading PNG texture "models\effects\waves2\waves2_42.png"
+Loading PNG texture "models\effects\waves2\waves2_43.png"
+Loading PNG texture "models\effects\waves2\waves2_44.png"
+Loading PNG texture "models\effects\waves2\waves2_45.png"
+Loading PNG texture "models\effects\waves2\waves2_46.png"
+Loading PNG texture "models\effects\waves2\waves2_47.png"
+Loading PNG texture "models\effects\waves2\waves2_48.png"
+Loading PNG texture "models\effects\waves2\waves2_49.png"
+Loading PNG texture "models\effects\waves2\waves2_5.png"
+Loading PNG texture "models\effects\waves2\waves2_50.png"
+Loading PNG texture "models\effects\waves2\waves2_51.png"
+Loading PNG texture "models\effects\waves2\waves2_52.png"
+Loading PNG texture "models\effects\waves2\waves2_53.png"
+Loading PNG texture "models\effects\waves2\waves2_54.png"
+Loading PNG texture "models\effects\waves2\waves2_55.png"
+Loading PNG texture "models\effects\waves2\waves2_56.png"
+Loading PNG texture "models\effects\waves2\waves2_6.png"
+Loading PNG texture "models\effects\waves2\waves2_7.png"
+Loading PNG texture "models\effects\waves2\waves2_8.png"
+Loading PNG texture "models\effects\waves2\waves2_9.png"
+Loading PNG texture "models\effects\waves3\waves3_1.png"
+Loading PNG texture "models\effects\waves3\waves3_10.png"
+Loading PNG texture "models\effects\waves3\waves3_11.png"
+Loading PNG texture "models\effects\waves3\waves3_12.png"
+Loading PNG texture "models\effects\waves3\waves3_13.png"
+Loading PNG texture "models\effects\waves3\waves3_14.png"
+Loading PNG texture "models\effects\waves3\waves3_15.png"
+Loading PNG texture "models\effects\waves3\waves3_16.png"
+Loading PNG texture "models\effects\waves3\waves3_17.png"
+Loading PNG texture "models\effects\waves3\waves3_18.png"
+Loading PNG texture "models\effects\waves3\waves3_19.png"
+Loading PNG texture "models\effects\waves3\waves3_2.png"
+Loading PNG texture "models\effects\waves3\waves3_20.png"
+Loading PNG texture "models\effects\waves3\waves3_21.png"
+Loading PNG texture "models\effects\waves3\waves3_22.png"
+Loading PNG texture "models\effects\waves3\waves3_23.png"
+Loading PNG texture "models\effects\waves3\waves3_24.png"
+Loading PNG texture "models\effects\waves3\waves3_25.png"
+Loading PNG texture "models\effects\waves3\waves3_26.png"
+Loading PNG texture "models\effects\waves3\waves3_27.png"
+Loading PNG texture "models\effects\waves3\waves3_28.png"
+Loading PNG texture "models\effects\waves3\waves3_29.png"
+Loading PNG texture "models\effects\waves3\waves3_3.png"
+Loading PNG texture "models\effects\waves3\waves3_30.png"
+Loading PNG texture "models\effects\waves3\waves3_31.png"
+Loading PNG texture "models\effects\waves3\waves3_32.png"
+Loading PNG texture "models\effects\waves3\waves3_33.png"
+Loading PNG texture "models\effects\waves3\waves3_34.png"
+Loading PNG texture "models\effects\waves3\waves3_35.png"
+Loading PNG texture "models\effects\waves3\waves3_36.png"
+Loading PNG texture "models\effects\waves3\waves3_37.png"
+Loading PNG texture "models\effects\waves3\waves3_38.png"
+Loading PNG texture "models\effects\waves3\waves3_39.png"
+Loading PNG texture "models\effects\waves3\waves3_4.png"
+Loading PNG texture "models\effects\waves3\waves3_40.png"
+Loading PNG texture "models\effects\waves3\waves3_41.png"
+Loading PNG texture "models\effects\waves3\waves3_42.png"
+Loading PNG texture "models\effects\waves3\waves3_43.png"
+Loading PNG texture "models\effects\waves3\waves3_44.png"
+Loading PNG texture "models\effects\waves3\waves3_45.png"
+Loading PNG texture "models\effects\waves3\waves3_46.png"
+Loading PNG texture "models\effects\waves3\waves3_47.png"
+Loading PNG texture "models\effects\waves3\waves3_48.png"
+Loading PNG texture "models\effects\waves3\waves3_49.png"
+Loading PNG texture "models\effects\waves3\waves3_5.png"
+Loading PNG texture "models\effects\waves3\waves3_50.png"
+Loading PNG texture "models\effects\waves3\waves3_51.png"
+Loading PNG texture "models\effects\waves3\waves3_52.png"
+Loading PNG texture "models\effects\waves3\waves3_53.png"
+Loading PNG texture "models\effects\waves3\waves3_54.png"
+Loading PNG texture "models\effects\waves3\waves3_55.png"
+Loading PNG texture "models\effects\waves3\waves3_56.png"
+Loading PNG texture "models\effects\waves3\waves3_6.png"
+Loading PNG texture "models\effects\waves3\waves3_7.png"
+Loading PNG texture "models\effects\waves3\waves3_8.png"
+Loading PNG texture "models\effects\waves3\waves3_9.png"
+Loading PNG texture "models\effects\waves4\waves4_1.png"
+Loading PNG texture "models\effects\waves4\waves4_10.png"
+Loading PNG texture "models\effects\waves4\waves4_11.png"
+Loading PNG texture "models\effects\waves4\waves4_12.png"
+Loading PNG texture "models\effects\waves4\waves4_13.png"
+Loading PNG texture "models\effects\waves4\waves4_14.png"
+Loading PNG texture "models\effects\waves4\waves4_15.png"
+Loading PNG texture "models\effects\waves4\waves4_16.png"
+Loading PNG texture "models\effects\waves4\waves4_17.png"
+Loading PNG texture "models\effects\waves4\waves4_18.png"
+Loading PNG texture "models\effects\waves4\waves4_19.png"
+Loading PNG texture "models\effects\waves4\waves4_2.png"
+Loading PNG texture "models\effects\waves4\waves4_20.png"
+Loading PNG texture "models\effects\waves4\waves4_21.png"
+Loading PNG texture "models\effects\waves4\waves4_22.png"
+Loading PNG texture "models\effects\waves4\waves4_23.png"
+Loading PNG texture "models\effects\waves4\waves4_24.png"
+Loading PNG texture "models\effects\waves4\waves4_25.png"
+Loading PNG texture "models\effects\waves4\waves4_26.png"
+Loading PNG texture "models\effects\waves4\waves4_27.png"
+Loading PNG texture "models\effects\waves4\waves4_28.png"
+Loading PNG texture "models\effects\waves4\waves4_29.png"
+Loading PNG texture "models\effects\waves4\waves4_3.png"
+Loading PNG texture "models\effects\waves4\waves4_30.png"
+Loading PNG texture "models\effects\waves4\waves4_31.png"
+Loading PNG texture "models\effects\waves4\waves4_32.png"
+Loading PNG texture "models\effects\waves4\waves4_33.png"
+Loading PNG texture "models\effects\waves4\waves4_34.png"
+Loading PNG texture "models\effects\waves4\waves4_35.png"
+Loading PNG texture "models\effects\waves4\waves4_36.png"
+Loading PNG texture "models\effects\waves4\waves4_37.png"
+Loading PNG texture "models\effects\waves4\waves4_38.png"
+Loading PNG texture "models\effects\waves4\waves4_39.png"
+Loading PNG texture "models\effects\waves4\waves4_4.png"
+Loading PNG texture "models\effects\waves4\waves4_40.png"
+Loading PNG texture "models\effects\waves4\waves4_41.png"
+Loading PNG texture "models\effects\waves4\waves4_42.png"
+Loading PNG texture "models\effects\waves4\waves4_43.png"
+Loading PNG texture "models\effects\waves4\waves4_44.png"
+Loading PNG texture "models\effects\waves4\waves4_45.png"
+Loading PNG texture "models\effects\waves4\waves4_46.png"
+Loading PNG texture "models\effects\waves4\waves4_47.png"
+Loading PNG texture "models\effects\waves4\waves4_48.png"
+Loading PNG texture "models\effects\waves4\waves4_49.png"
+Loading PNG texture "models\effects\waves4\waves4_5.png"
+Loading PNG texture "models\effects\waves4\waves4_50.png"
+Loading PNG texture "models\effects\waves4\waves4_51.png"
+Loading PNG texture "models\effects\waves4\waves4_52.png"
+Loading PNG texture "models\effects\waves4\waves4_53.png"
+Loading PNG texture "models\effects\waves4\waves4_54.png"
+Loading PNG texture "models\effects\waves4\waves4_55.png"
+Loading PNG texture "models\effects\waves4\waves4_56.png"
+Loading PNG texture "models\effects\waves4\waves4_6.png"
+Loading PNG texture "models\effects\waves4\waves4_7.png"
+Loading PNG texture "models\effects\waves4\waves4_8.png"
+Loading PNG texture "models\effects\waves4\waves4_9.png"
+Loading PNG texture "models\effects\whl_dstsnd\collisionsmoke.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_dstsnd\hlwtsplh3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_dstsnd\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_dstsnd\whdstdbr1.png"
+Loading PNG texture "models\effects\whl_dstsnd\whdstdbr2.png"
+Loading PNG texture "models\effects\whl_dstsnd\whdstdbr3.png"
+Loading PNG texture "models\effects\whl_grass\grssplh.png"
+Loading PNG texture "models\effects\whl_grass\grssplh2.png"
+Loading PNG texture "models\effects\whl_grass\grssplh3.png"
+Loading PNG texture "models\effects\whl_grass\grssplh4.png"
+Loading PNG texture "models\effects\whl_grass\grssplh5.png"
+Loading PNG texture "models\effects\whl_grv\hlwtsplh.png"
+Loading PNG texture "models\effects\whl_grv\whdstdbr3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_mud\hlwtsplh.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_mud\rnst_8.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_mud\whdstdbr4.png"
+Loading PNG texture "models\effects\whl_mud\whdstdbr5.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_1.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_10.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_11.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_12.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_13.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_14.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_15.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_16.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_2.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_3.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_4.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_5.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_6.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_7.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_8.png"
+Loading PNG texture "models\effects\whl_rain\whlrnsp_9.png"
+Loading PNG texture "models\effects\whl_rain\whlwtsp1.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_rain\whlwtsp2.png"
+Loading PNG texture "models\effects\whl_rain\whlwtsp3.png"
+Loading PNG texture "models\effects\whl_rain\whlwtsp4.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_rain\whlwtsp5.png"
+Loading PNG texture "models\effects\whl_sand\hlwtsplh.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_sand\hlwtsplh3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_sand\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_sand\sphere_low.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_smk\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_smk_exotic\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\whl_smk_exotic_long\smokeII_3.png" - texture was already loaded.
+Loading PNG texture "models\effects\WS_factorysmoke\smoke5.png"
+Removing old texture "smoke5"
+Loading PNG texture "models\effects\wt_shadow\wtshd.png"
+Loading PNG texture "models\effects\wt_shadow2\wtshd2.png"
+Loading PNG texture "models\effects\wt_shadow3\wtshd3.png"
+Loading PNG texture "models\effects\wt_shadow4\wtshd4.png"
+Loading PNG texture "models\effects\wt_shadow5\wtshd5.png"
+Loading custom system "models\effects\blckbgef\blckbgef.fxs" ("blckbgef")
+Loading custom system "models\effects\blood_heli\blood_heli.fxs" ("blood_heli")
+Loading custom system "models\effects\blt_smk\blt_smk.fxs" ("blt_smk")
+Loading custom system "models\effects\blt_snd\blt_snd.fxs" ("blt_snd")
+Loading custom system "models\effects\blt_wdd\blt_wdd.fxs" ("blt_wdd")
+Loading custom system "models\effects\boat_prop\boat_prop.fxs" ("boat_prop")
+Loading custom system "models\effects\camflash\camflash.fxs" ("camflash")
+Loading custom system "models\effects\carwashspray\carwashspray.fxs" ("carwashspray")
+Loading custom system "models\effects\cement\cement.fxs" ("cement")
+Loading custom system "models\effects\cigarette_smoke\cigarette_smoke.fxs" ("cigarette_smoke")
+Loading custom system "models\effects\cloudfast\cloudfast.fxs" ("cloudfast")
+Loading custom system "models\effects\cl_test\cl_test.fxs" ("cl_test")
+Loading custom system "models\effects\cl_test2\cl_test2.fxs" ("cl_test2")
+Loading custom system "models\effects\cl_test3\cl_test3.fxs" ("cl_test3")
+Loading custom system "models\effects\cl_test4\cl_test4.fxs" ("cl_test4")
+Loading custom system "models\effects\cl_test5\cl_test5.fxs" ("cl_test5")
+Loading custom system "models\effects\coke_puff\coke_puff.fxs" ("coke_puff")
+Loading custom system "models\effects\coke_trail\coke_trail.fxs" ("coke_trail")
+Loading custom system "models\effects\cust_spark\cust_spark.fxs" ("cust_spark")
+Loading custom system "models\effects\dbr_smoke\dbr_smoke.fxs" ("dbr_smoke")
+Loading custom system "models\effects\dbr_smoke2\dbr_smoke2.fxs" ("dbr_smoke2")
+Loading custom system "models\effects\edgfm\edgfm.fxs" ("edgfm")
+Loading custom system "models\effects\edgfm2\edgfm2.fxs" ("edgfm2")
+Loading custom system "models\effects\edgfm3\edgfm3.fxs" ("edgfm3")
+Loading custom system "models\effects\edgfm4\edgfm4.fxs" ("edgfm4")
+Loading custom system "models\effects\edgfm5\edgfm5.fxs" ("edgfm5")
+Loading custom system "models\effects\edgfm6\edgfm6.fxs" ("edgfm6")
+Loading custom system "models\effects\edgfm7\edgfm7.fxs" ("edgfm7")
+Loading custom system "models\effects\exhale\exhale.fxs" ("exhale")
+Loading custom system "models\effects\exh_smk\exh_smk.fxs" ("exh_smk")
+Loading custom system "models\effects\explosion_barrel\explosion_barrel.fxs" ("explosion_barrel")
+Loading custom system "models\effects\explosion_crate\explosion_crate.fxs" ("explosion_crate")
+Loading custom system "models\effects\explosion_door\explosion_door.fxs" ("explosion_door")
+Loading custom system "models\effects\explosion_fuel_car\explosion_fuel_car.fxs" ("explosion_fuel_car")
+Loading custom system "models\effects\explosion_large\explosion_large.fxs" ("explosion_large")
+Loading custom system "models\effects\explosion_medium\explosion_medium.fxs" ("explosion_medium")
+Loading custom system "models\effects\explosion_molotov\explosion_molotov.fxs" ("explosion_molotov")
+Loading custom system "models\effects\explosion_pmp\explosion_pmp.fxs" ("explosion_pmp")
+Loading custom system "models\effects\explosion_small\explosion_small.fxs" ("explosion_small")
+Loading custom system "models\effects\explosion_tiny\explosion_tiny.fxs" ("explosion_tiny")
+Loading custom system "models\effects\explosion_underwater\explosion_underwater.fxs" ("explosion_underwater")
+Loading custom system "models\effects\extinguisher\extinguisher.fxs" ("extinguisher")
+Loading custom system "models\effects\ex_grnd\ex_grnd.fxs" ("ex_grnd")
+Loading custom system "models\effects\ex_rckmsl\ex_rckmsl.fxs" ("ex_rckmsl")
+Loading custom system "models\effects\ex_rckt\ex_rckt.fxs" ("ex_rckt")
+Loading custom system "models\effects\ex_undwtr\ex_undwtr.fxs" ("ex_undwtr")
+Loading custom system "models\effects\fire\fire.fxs" ("fire")
+Loading custom system "models\effects\fire_bike\fire_bike.fxs" ("fire_bike")
+Loading custom system "models\effects\fire_car\fire_car.fxs" ("fire_car")
+Loading custom system "models\effects\fire_large\fire_large.fxs" ("fire_large")
+Loading custom system "models\effects\fire_med\fire_med.fxs" ("fire_med")
+Loading custom system "models\effects\fire_ped\fire_ped.fxs" ("fire_ped")
+Loading custom system "models\effects\firhyd_ex\firhyd_ex.fxs" ("firhyd_ex")
+Loading custom system "models\effects\Flame\Flame.fxs" ("Flame")
+Loading custom system "models\effects\flamethrower\flamethrower.fxs" ("flamethrower")
+Loading custom system "models\effects\ft_splush\ft_splush.fxs" ("ft_splush")
+Loading custom system "models\effects\gunflash\gunflash.fxs" ("gunflash")
+Loading custom system "models\effects\gunsmoke\gunsmoke.fxs" ("gunsmoke")
+Loading custom system "models\effects\hd_sht\hd_sht.fxs" ("hd_sht")
+Loading custom system "models\effects\heli_dust\heli_dust.fxs" ("heli_dust")
+Loading custom system "models\effects\insects\insects.fxs" ("insects")
+Loading custom system "models\effects\jetpack\jetpack.fxs" ("jetpack")
+Loading custom system "models\effects\jetthrust\jetthrust.fxs" ("jetthrust")
+Loading custom system "models\effects\main_water_effect\main_water_effect.fxs" ("main_water_effect")
+Loading custom system "models\effects\molotov_flame\molotov_flame.fxs" ("molotov_flame")
+Loading custom system "models\effects\nitro\nitro.fxs" ("nitro")
+Loading custom system "models\effects\overheat_car\overheat_car.fxs" ("overheat_car")
+Loading custom system "models\effects\overheat_car_electric\overheat_car_electric.fxs" ("overheat_car_electric")
+Loading custom system "models\effects\papersz\papersz.fxs" ("papersz")
+Loading custom system "models\effects\papersz2\papersz2.fxs" ("papersz2")
+Loading custom system "models\effects\papersz3\papersz3.fxs" ("papersz3")
+Loading custom system "models\effects\petrolcan\petrolcan.fxs" ("petrolcan")
+Loading custom system "models\effects\prt_blood\prt_blood.fxs" ("prt_blood")
+Loading custom system "models\effects\prt_boatsplash\prt_boatsplash.fxs" ("prt_boatsplash")
+Loading custom system "models\effects\prt_boatsplash2\prt_boatsplash2.fxs" ("prt_boatsplash2")
+Loading custom system "models\effects\prt_bubble\prt_bubble.fxs" ("prt_bubble")
+Loading custom system "models\effects\prt_cardebris\prt_cardebris.fxs" ("prt_cardebris")
+Loading custom system "models\effects\prt_collisionsmoke\prt_collisionsmoke.fxs" ("prt_collisionsmoke")
+Loading custom system "models\effects\prt_glass\prt_glass.fxs" ("prt_glass")
+Loading custom system "models\effects\prt_gunshell\prt_gunshell.fxs" ("prt_gunshell")
+Loading custom system "models\effects\prt_sand\prt_sand.fxs" ("prt_sand")
+Loading custom system "models\effects\prt_sand2\prt_sand2.fxs" ("prt_sand2")
+Loading custom system "models\effects\prt_smokeII_3_expand\prt_smokeII_3_expand.fxs" ("prt_smokeII_3_expand")
+Loading custom system "models\effects\prt_smoke_huge\prt_smoke_huge.fxs" ("prt_smoke_huge")
+Loading custom system "models\effects\prt_spark\prt_spark.fxs" ("prt_spark")
+Loading custom system "models\effects\prt_spark_2\prt_spark_2.fxs" ("prt_spark_2")
+Loading custom system "models\effects\prt_splash\prt_splash.fxs" ("prt_splash")
+Loading custom system "models\effects\prt_wake\prt_wake.fxs" ("prt_wake")
+Loading custom system "models\effects\prt_watersplash\prt_watersplash.fxs" ("prt_watersplash")
+Loading custom system "models\effects\prt_wheeldirt\prt_wheeldirt.fxs" ("prt_wheeldirt")
+Loading custom system "models\effects\puke\puke.fxs" ("puke")
+Loading custom system "models\effects\rain_dust\rain_dust.fxs" ("rain_dust")
+Loading custom system "models\effects\rain_normal\rain_normal.fxs" ("rain_normal")
+Loading custom system "models\effects\rain_weak\rain_weak.fxs" ("rain_weak")
+Loading custom system "models\effects\riot_smoke\riot_smoke.fxs" ("riot_smoke")
+Loading custom system "models\effects\sand_storm_dust\sand_storm_dust.fxs" ("sand_storm_dust")
+Loading custom system "models\effects\shootlight\shootlight.fxs" ("shootlight")
+Loading custom system "models\effects\sh_bright\sh_bright.fxs" ("sh_bright")
+Loading custom system "models\effects\sh_bright2\sh_bright2.fxs" ("sh_bright2")
+Loading custom system "models\effects\smoke30lit\smoke30lit.fxs" ("smoke30lit")
+Loading custom system "models\effects\smoke30m\smoke30m.fxs" ("smoke30m")
+Loading custom system "models\effects\smoke50lit\smoke50lit.fxs" ("smoke50lit")
+Loading custom system "models\effects\smoke_flare\smoke_flare.fxs" ("smoke_flare")
+Loading custom system "models\effects\snglr1\snglr1.fxs" ("snglr1")
+Loading custom system "models\effects\spraycan\spraycan.fxs" ("spraycan")
+Loading custom system "models\effects\stc_foam\stc_foam.fxs" ("stc_foam")
+Loading custom system "models\effects\stc_foam2\stc_foam2.fxs" ("stc_foam2")
+Loading custom system "models\effects\stc_foam3\stc_foam3.fxs" ("stc_foam3")
+Loading custom system "models\effects\stc_foam3_w\stc_foam3_w.fxs" ("stc_foam3_w")
+Loading custom system "models\effects\sun_sparks\sun_sparks.fxs" ("sun_sparks")
+Loading custom system "models\effects\tank_fire\tank_fire.fxs" ("tank_fire")
+Loading custom system "models\effects\teargas\teargas.fxs" ("teargas")
+Loading custom system "models\effects\teargasAD\teargasAD.fxs" ("teargasAD")
+Loading custom system "models\effects\thunder\thunder.fxs" ("thunder")
+Loading custom system "models\effects\tree_hit_fir\tree_hit_fir.fxs" ("tree_hit_fir")
+Loading custom system "models\effects\tree_hit_palm\tree_hit_palm.fxs" ("tree_hit_palm")
+Loading custom system "models\effects\undwdst\undwdst.fxs" ("undwdst")
+Loading custom system "models\effects\undwrefl\undwrefl.fxs" ("undwrefl")
+Loading custom system "models\effects\undwrefl2\undwrefl2.fxs" ("undwrefl2")
+Loading custom system "models\effects\vent\vent.fxs" ("vent")
+Loading custom system "models\effects\vent2\vent2.fxs" ("vent2")
+Loading custom system "models\effects\wallbust\wallbust.fxs" ("wallbust")
+Loading custom system "models\effects\waterfall_end\waterfall_end.fxs" ("waterfall_end")
+Loading custom system "models\effects\water_fnt_tme\water_fnt_tme.fxs" ("water_fnt_tme")
+Loading custom system "models\effects\water_fountain\water_fountain.fxs" ("water_fountain")
+Loading custom system "models\effects\water_hydrant\water_hydrant.fxs" ("water_hydrant")
+Loading custom system "models\effects\water_ripples\water_ripples.fxs" ("water_ripples")
+Loading custom system "models\effects\water_speed\water_speed.fxs" ("water_speed")
+Loading custom system "models\effects\water_splash\water_splash.fxs" ("water_splash")
+Loading custom system "models\effects\water_splash_big\water_splash_big.fxs" ("water_splash_big")
+Loading custom system "models\effects\water_splsh_sml\water_splsh_sml.fxs" ("water_splsh_sml")
+Loading custom system "models\effects\water_swim\water_swim.fxs" ("water_swim")
+Loading custom system "models\effects\watsnrfl\watsnrfl.fxs" ("watsnrfl")
+Loading custom system "models\effects\waves1\waves1.fxs" ("waves1")
+Loading custom system "models\effects\waves2\waves2.fxs" ("waves2")
+Loading custom system "models\effects\waves3\waves3.fxs" ("waves3")
+Loading custom system "models\effects\waves4\waves4.fxs" ("waves4")
+Loading custom system "models\effects\whl_dstsnd\whl_dstsnd.fxs" ("whl_dstsnd")
+Loading custom system "models\effects\whl_grass\whl_grass.fxs" ("whl_grass")
+Loading custom system "models\effects\whl_grv\whl_grv.fxs" ("whl_grv")
+Loading custom system "models\effects\whl_mud\whl_mud.fxs" ("whl_mud")
+Loading custom system "models\effects\whl_rain\whl_rain.fxs" ("whl_rain")
+Loading custom system "models\effects\whl_sand\whl_sand.fxs" ("whl_sand")
+Loading custom system "models\effects\whl_smk\whl_smk.fxs" ("whl_smk")
+Loading custom system "models\effects\whl_smk_exotic\whl_smk_exotic.fxs" ("whl_smk_exotic")
+Loading custom system "models\effects\whl_smk_exotic_long\whl_smk_exotic_long.fxs" ("whl_smk_exotic_long")
+Loading custom system "models\effects\WS_factorysmoke\WS_factorysmoke.fxs" ("WS_factorysmoke")
+Loading custom system "models\effects\wt_shadow\wt_shadow.fxs" ("wt_shadow")
+Loading custom system "models\effects\wt_shadow2\wt_shadow2.fxs" ("wt_shadow2")
+Loading custom system "models\effects\wt_shadow3\wt_shadow3.fxs" ("wt_shadow3")
+Loading custom system "models\effects\wt_shadow4\wt_shadow4.fxs" ("wt_shadow4")
+Loading custom system "models\effects\wt_shadow5\wt_shadow5.fxs" ("wt_shadow5")
+Loading default system "prt_blood" - this system was already loaded.
+Loading default system "prt_boatsplash" - this system was already loaded.
+Loading default system "prt_bubble" - this system was already loaded.
+Loading default system "prt_cardebris" - this system was already loaded.
+Loading default system "prt_collisionsmoke" - this system was already loaded.
+Loading default system "prt_glass" - this system was already loaded.
+Loading default system "prt_gunshell" - this system was already loaded.
+Loading default system "prt_sand" - this system was already loaded.
+Loading default system "prt_sand2" - this system was already loaded.
+Loading default system "prt_smokeII_3_expand" - this system was already loaded.
+Loading default system "prt_smoke_huge" - this system was already loaded.
+Loading default system "prt_spark" - this system was already loaded.
+Loading default system "prt_spark_2" - this system was already loaded.
+Loading default system "prt_splash" - this system was already loaded.
+Loading default system "prt_wake" - this system was already loaded.
+Loading default system "prt_watersplash" - this system was already loaded.
+Loading default system "prt_wheeldirt" - this system was already loaded.
+Loading default system "boat_prop" - this system was already loaded.
+Loading default system "camflash" - this system was already loaded.
+Loading default system "exhale" - this system was already loaded.
+Loading default system "explosion_fuel_car" - this system was already loaded.
+Loading default system "explosion_large" - this system was already loaded.
+Loading default system "explosion_medium" - this system was already loaded.
+Loading default system "explosion_molotov" - this system was already loaded.
+Loading default system "explosion_small" - this system was already loaded.
+Loading default system "explosion_tiny" - this system was already loaded.
+Loading default system "extinguisher" - this system was already loaded.
+Loading default system "fire" - this system was already loaded.
+Loading default system "fire_bike" - this system was already loaded.
+Loading default system "fire_car" - this system was already loaded.
+Loading default system "fire_large" - this system was already loaded.
+Loading default system "fire_med" - this system was already loaded.
+Loading default system "flamethrower" - this system was already loaded.
+Loading default system "gunflash" - this system was already loaded.
+Loading default system "gunsmoke" - this system was already loaded.
+Loading default system "heli_dust" - this system was already loaded.
+Loading default system "jetpack" - this system was already loaded.
+Loading default system "jetthrust" - this system was already loaded.
+Loading default system "molotov_flame" - this system was already loaded.
+Loading default system "nitro" - this system was already loaded.
+Loading default system "overheat_car" - this system was already loaded.
+Loading default system "overheat_car_electric" - this system was already loaded.
+Loading default system "riot_smoke" - this system was already loaded.
+Loading default system "spraycan" - this system was already loaded.
+Loading default system "tank_fire" - this system was already loaded.
+Loading default system "teargas" - this system was already loaded.
+Loading default system "teargasAD" - this system was already loaded.
+Loading default system "water_hydrant" - this system was already loaded.
+Loading default system "water_ripples" - this system was already loaded.
+Loading default system "water_speed" - this system was already loaded.
+Loading default system "water_splash" - this system was already loaded.
+Loading default system "water_splash_big" - this system was already loaded.
+Loading default system "water_splsh_sml" - this system was already loaded.
+Loading default system "water_swim" - this system was already loaded.
+Loading default system "cigarette_smoke" - this system was already loaded.
+Loading default system "Flame" - this system was already loaded.
+Loading default system "insects" - this system was already loaded.
+Loading default system "smoke30lit" - this system was already loaded.
+Loading default system "smoke30m" - this system was already loaded.
+Loading default system "smoke50lit" - this system was already loaded.
+Loading default system "vent" - this system was already loaded.
+Loading default system "vent2" - this system was already loaded.
+Loading default system "waterfall_end" - this system was already loaded.
+Loading default system "water_fnt_tme" - this system was already loaded.
+Loading default system "water_fountain" - this system was already loaded.
+Loading default system "tree_hit_fir" - this system was already loaded.
+Loading default system "tree_hit_palm" - this system was already loaded.
+Loading default system "blood_heli" - this system was already loaded.
+Loading default system "carwashspray" - this system was already loaded.
+Loading default system "cement" - this system was already loaded.
+Loading default system "cloudfast" - this system was already loaded.
+Loading default system "coke_puff" - this system was already loaded.
+Loading default system "coke_trail" - this system was already loaded.
+Loading default system "explosion_barrel" - this system was already loaded.
+Loading default system "explosion_crate" - this system was already loaded.
+Loading default system "explosion_door" - this system was already loaded.
+Loading default system "petrolcan" - this system was already loaded.
+Loading default system "puke" - this system was already loaded.
+Loading default system "shootlight" - this system was already loaded.
+Loading default system "smoke_flare" - this system was already loaded.
+Loading default system "wallbust" - this system was already loaded.
+Loading default system "WS_factorysmoke" - this system was already loaded.
