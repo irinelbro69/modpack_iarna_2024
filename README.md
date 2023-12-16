@@ -1,6 +1,7 @@
 # Modpack iarna 2024
 ![idk](https://cdn.discordapp.com/attachments/1099794450366087360/1185287367398010880/image.png?ex=658f0fe1&is=657c9ae1&hm=ea391a22a9fa7e7936493531700ad61b9a6a783226ecc60c178c1e56c1b79f4b&)
-### Cel mai misto server de SA:MP? Intra pe blue! [click pentru a aduga blue.bugged.ro in clientul SA:MP](samp://blue.bugged.ro:7777)
+### Cel mai misto server de SA:MP? Intra pe blue! 
+[click pentru a aduga blue.bugged.ro in clientul SA:MP](samp://blue.bugged.ro:7777)
 ### Ce contine modpack-ul?
 - zapada pe jos (HD)
 - ninsoare (vezi mai jos)
