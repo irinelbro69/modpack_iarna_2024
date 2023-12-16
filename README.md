@@ -30,15 +30,14 @@
 - mod de dialog-uri rotunde
 - chat modern (moduri.ro/chat)
 - arme pe spate
+- mod de parasute custom in functie de ora de pe server
 
 #### Alte moduri
 - DynamicStreaming.asi
-- fastman92's limit adjuster
 - ImprovedStreaming
 - MoonLoader
 - Modloader
 - SAMP.asi
-- Project 2DFX
 - SA:MP Discord Plugin
 - SAMPFUNCS
 - CLEO
