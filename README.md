@@ -1,8 +1,9 @@
 # Modpack iarna 2024
-![idk](https://cdn.discordapp.com/attachments/1099794450366087360/1185287367398010880/image.png?ex=658f0fe1&is=657c9ae1&hm=ea391a22a9fa7e7936493531700ad61b9a6a783226ecc60c178c1e56c1b79f4b&)
-### Cel mai misto server de SA:MP? **blue.bugged.ro**
-### Ce contine modpack-ul?
-- zapada pe jos (HD)
+![idk](https://i.imgur.com/JClEvGP.png)
+# Cel mai misto server de SA:MP? **blue.bugged.ro**
+# Ce contine modpack-ul?
+- zapada pe jos
+- strazi (furate de la Stringer)
 - ninsoare (vezi mai jos)
 - hud nou
 - minimap cu zapada
@@ -11,7 +12,7 @@
 - arme schimbate (cu iconite custom 😉)
 - mod de schimbat skin-ul pe server (/cskin)
 - mod de schimbat vremea de pe server (/sett sau /setw)
-- mod ce modifica pozitia camerei atunci cand tinteti cu o arma
+- mod ce modifica pozitia camerei atunci cand tintesti cu o arma
 - skinuri de iarna (peste 200)
 - masini cu zapada pe ele
 - pickup-uri schimbate (stil GTA 3)
@@ -30,9 +31,8 @@
 - mod de dialog-uri rotunde
 - chat modern (moduri.ro/chat)
 - arme pe spate
-- mod de parasute custom in functie de ora de pe server
 
-#### Alte moduri
+### Alte moduri
 - DynamicStreaming.asi
 - ImprovedStreaming
 - MoonLoader
@@ -51,7 +51,7 @@
 - Sensitivity Fix
 - si altele...
 
-### Tutorial de instalare
+# Tutorial de instalare
 1. Pentru a instala acest modpack ai nevoie de jocul curat (pe care-l poti descarca de pe https://moduri.ro/gta).
 2. Dupa ce ai extras jocul curat, va trebui sa stergi folderele **audio** si **data**.
 3. Folderul cu jocul curat va trebui sa arate cam asa:<br>
@@ -67,3 +67,25 @@
 9. Si, in final, dupa ce deschideti clientul SA:MP va trebui sa selectati folderul cu jocul pentru a putea intra pe SA:MP.<br>
 ![idk](https://i.imgur.com/SWfw3r9.png)
 10. Have fun!
+
+# Q&A
+### Iau crash... / am lag ce fac? 😭
+- Poti scoate pe rand cate un mod din folderul modloader pana cand consideri ca jocul ti se misca bine.
+
+### Cum activez ninsoarea?
+- Pentru a activa ninsoarea trebuie sa tii apasat pe **CTRL** si sa apesi **UP (sageata sus)** pentru a creste intensitatea ninsorii.
+- Daca vrei sa dezactivezi ninsoarea trebuie sa tii apasat pe **CTRL** si sa apesi **DOWN (sageata jos)**.
+- Pentru o experienta mai placuta recomand ca intensitatea sa fie setata pe nivelul 2 (ss mai jos).
+![pnm](https://i.imgur.com/xmvvIEC.png)
+
+### Nu vad neoanele, ce fac?
+- Neoanele de pe SA:MP se vad doar seara. Cum in acest modpack nu am pus SA:MP Addon, nu se vad ziua.
+- Poti folosi /sett 20-6 sau /setw 6 pentru a seta o vreme/ora la care neonul poate fi vazut.
+- Nu stiu sigur, dar cred ca poti vedea neoanele si fara vreme/ora.
+
+### Update-uri pe bugged cand?
+- in viitor ™
+
+### Am pus modpack-ul dar jocul meu arata asa:
+![muie](https://api.duniagames.co.id/api/content//upload/file/18919196381637192531.png)<br>
+### ...
