@@ -5,19 +5,19 @@
  Copyright (c) 2016, BlastHack Team
  http://blast.hk/moonloader/
 
-[12:19:26.585427] (debug)	Module handle: 0x65710000
-[12:19:26.586427] (info)	Working directory: D:\modpack_iarna_2024\moonloader
-[12:19:26.586427] (debug)	FP Control: 0x0109001F
-[12:19:26.586427] (debug)	Windows: 10.0.19045 2
-[12:19:26.586427] (debug)	Game: GTA SA 1.0 US 'HoodLum'
-[12:19:26.586427] (system)	Installing pre-game hooks...
-[12:19:26.588426] (system)	Hooks installed.
-[12:19:27.762512] (debug)	Opcode handler table: 0x6607e9b8
-[12:19:27.762512] (debug)	LUA_PATH = D:\modpack_iarna_2024\moonloader\libstd\?.lua;D:\modpack_iarna_2024\moonloader\libstd\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?.lua;D:\modpack_iarna_2024\moonloader\lib\?.luac;D:\modpack_iarna_2024\moonloader\lib\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?\init.luac
-[12:19:27.762512] (debug)	LUA_CPATH = D:\modpack_iarna_2024\moonloader\libstd\?.dll;D:\modpack_iarna_2024\moonloader\lib\?.dll
-[12:19:27.795519] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:1)
-[12:19:27.815514] (system)	HassleHUD: Loaded successfully.
-[12:19:27.815514] (system)	Loading script "D:\modpack_iarna_2024\moonloader\reload_all.lua"...	(id:2)
-[12:19:27.820516] (system)	reload_all.lua: Loaded successfully.
-[12:19:28.585572] (system)	Installing post-load hooks...
-[12:19:28.585572] (system)	Hooks installed.
+[16:02:34.936808] (debug)	Module handle: 0x58ca0000
+[16:02:34.936808] (info)	Working directory: D:\modpack_iarna_2024\moonloader
+[16:02:34.936808] (debug)	FP Control: 0x0109001F
+[16:02:34.936808] (debug)	Windows: 10.0.19045 2
+[16:02:34.936808] (debug)	Game: GTA SA 1.0 US 'HoodLum'
+[16:02:34.937807] (system)	Installing pre-game hooks...
+[16:02:34.939791] (system)	Hooks installed.
+[16:02:36.134288] (debug)	Opcode handler table: 0x64c2e9b8
+[16:02:36.134288] (debug)	LUA_PATH = D:\modpack_iarna_2024\moonloader\libstd\?.lua;D:\modpack_iarna_2024\moonloader\libstd\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?.lua;D:\modpack_iarna_2024\moonloader\lib\?.luac;D:\modpack_iarna_2024\moonloader\lib\?\init.lua;D:\modpack_iarna_2024\moonloader\lib\?\init.luac
+[16:02:36.134288] (debug)	LUA_CPATH = D:\modpack_iarna_2024\moonloader\libstd\?.dll;D:\modpack_iarna_2024\moonloader\lib\?.dll
+[16:02:36.169292] (system)	Loading script "D:\modpack_iarna_2024\moonloader\HassleHUD.luac"...	(id:1)
+[16:02:36.189290] (system)	HassleHUD: Loaded successfully.
+[16:02:36.189290] (system)	Loading script "D:\modpack_iarna_2024\moonloader\reload_all.lua"...	(id:2)
+[16:02:36.194292] (system)	reload_all.lua: Loaded successfully.
+[16:02:36.994350] (system)	Installing post-load hooks...
+[16:02:36.994350] (system)	Hooks installed.
