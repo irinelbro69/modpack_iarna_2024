@@ -48,6 +48,9 @@
 - Sensitivity Fix
 - si altele...
 
+# Nu stiu sa-l instalez, ce fac?
+Poti descarca jocul FULL de aici: https://drive.google.com/file/d/1f9sMWcQ9lzxaZaTjsc6s8oQlHC6v8u2m/view?usp=sharing
+
 # Tutorial de instalare
 1. Pentru a instala acest modpack ai nevoie de jocul curat (pe care-l poti descarca de pe https://moduri.ro/gta).
 2. Dupa ce ai extras jocul curat, va trebui sa stergi folderele **audio** si **data**.
