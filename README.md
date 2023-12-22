@@ -3,7 +3,7 @@
 # Cel mai misto server de SA:MP? **blue.bugged.ro**
 # Ce contine modpack-ul?
 - zapada pe jos
-- strazi (furate de la Stringer)
+- strazi
 - ninsoare (vezi mai jos)
 - hud nou
 - minimap cu zapada
@@ -18,7 +18,6 @@
 - pickup-uri schimbate (stil GTA 3)
 - cladiri/zone retexturate (in general unde-s cei mai multi playeri pe bugged)
 - mapping custom (unde-s cei mai multi playeri / zone importante):
-  - oameni de zapada
   - instalatii
   - props (stalpi, semafoare, garduri etc.)
   - bugged.ro pe vinewood
@@ -33,7 +32,6 @@
 - arme pe spate
 
 ### Alte moduri
-- DynamicStreaming.asi
 - ImprovedStreaming
 - MoonLoader
 - Modloader
@@ -45,7 +43,6 @@
 - flickr.asi
 - fix.black_roads.asi
 - RefreshRateFixByDarkP1xel32.asi (puteti juca SA:MP peste > 60hz daca aveti monitoare ok)
-- HalanoOptimization.asi
 - crashes.asi
 - Ultra fast connect
 - Sensitivity Fix
@@ -77,6 +74,10 @@
 - Daca vrei sa dezactivezi ninsoarea trebuie sa tii apasat pe **CTRL** si sa apesi **DOWN (sageata jos)**.
 - Pentru o experienta mai placuta recomand ca intensitatea sa fie setata pe nivelul 2 (ss mai jos).
 ![pnm](https://i.imgur.com/xmvvIEC.png)
+
+### Iau crash-uri random, ce pot face?
+- In general, crash-urile pot fi cauzate de modul Project2DFX, poti sterge SALodLights.asi din folderul jocului.
+- Alta rezolvare ar fi sa stergi si ImprovedStreaming.asi (desi nu recomand).
 
 ### Nu vad neoanele, ce fac?
 - Neoanele de pe SA:MP se vad doar seara. Cum in acest modpack nu am pus SA:MP Addon, nu se vad ziua.
