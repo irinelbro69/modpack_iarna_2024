@@ -1,0 +1,119 @@
+objs
+800, genVEG_bush07, gta_proc_bush, 59, 2105348
+801, genVEG_bush01, gta_proc_ferns, 59, 2105348
+802, genVEG_bush08, gta_proc_bushland, 59, 2105348
+803, genVEG_bush09, gta_proc_bush, 59, 2105348
+804, genVEG_bush10, gta_proc_grasslanda, 59, 2105348
+805, genVEG_bush11, gta_proc_bush, 59, 2105348
+806, genVEG_tallgrass, gta_proc_rushes, 59, 2105348
+807, p_rubble, gta_rockcuntry, 59, 4
+808, genVEG_bush12, gta_proc_ferns, 59, 2105348
+809, genVEG_bush13, gta_proc_ferns, 59, 2105348
+810, genVEG_bush14, gta_proc_bushland, 59, 2105348
+811, genVEG_bush15, gta_proc_grasslanda, 59, 2105348
+812, genVEG_bush16, gta_proc_grassland, 59, 2105348
+813, genVEG_bush17, gta_proc_grasslanda, 59, 2105348
+814, genVEG_bush18, gta_proc_grassland, 59, 2105348
+815, genVEG_bush19, gta_proc_grassland, 45, 2105348
+816, p_rubble03, gta_rockcuntry, 59, 4
+817, veg_Pflowers01, gta_procflowers, 59, 2105348
+818, genVEG_tallgrass02, veg_fuzzyplant, 59, 2105348
+819, genVEG_tallgrass03, veg_fuzzyplant, 59, 2105348
+820, genVEG_tallgrass04, gta_proc_ferns, 59, 2105348
+821, genVEG_tallgrass05, gta_proc_bushland, 59, 2105348
+822, genVEG_tallgrass06, gta_proc_ferns, 59, 2105348
+823, genVEG_tallgrass07, veg_fuzzyplant, 59, 2105348
+824, genVEG_tallgrass08, veg_fuzzyplant, 59, 2105348
+825, genVEG_bushy, gta_proc_bush, 59, 2105348
+826, genVEG_tallgrass10, gta_proc_bush, 59, 2105348
+827, genVEG_tallgrass11, veg_fuzzyplant, 59, 2105348
+828, p_rubble2, gta_rockcuntry, 59, 4
+829, DEAD_TREE_3, GTA_brokentrees, 59, 2105348
+830, DEAD_TREE_2, GTA_brokentrees, 59, 2105348
+831, DEAD_TREE_5, GTA_brokentrees, 59, 2105348
+832, DEAD_TREE_4, GTA_brokentrees, 59, 2105348
+833, DEAD_TREE_6, GTA_brokentrees, 59, 2105348
+834, DEAD_TREE_7, GTA_brokentrees, 59, 2105348
+835, DEAD_TREE_8, GTA_brokentrees, 59, 2105348
+836, DEAD_TREE_10, GTA_brokentrees, 59, 2105348
+837, DEAD_TREE_1, GTA_brokentrees, 59, 2105348
+838, DEAD_TREE_9, GTA_brokentrees, 59, 2105348
+839, DEAD_TREE_11, GTA_brokentrees, 59, 2105348
+840, DEAD_TREE_12, GTA_brokentrees, 59, 2105348
+841, DEAD_TREE_13, GTA_brokentrees, 59, 2105348
+842, DEAD_TREE_14, GTA_brokentrees, 59, 2105348
+843, DEAD_TREE_15, GTA_brokentrees, 59, 2105348
+844, DEAD_TREE_16, GTA_brokentrees, 59, 2105348
+845, DEAD_TREE_17, GTA_brokentrees, 59, 2105348
+846, DEAD_TREE_18, GTA_brokentrees, 59, 2105348
+847, DEAD_TREE_19, GTA_brokentrees, 59, 2105348
+848, DEAD_TREE_20, GTA_brokentrees, 59, 2105348
+849, CJ_urb_rub_3, junkpiles, 59, 4
+850, CJ_urb_rub_1, junkpiles, 59, 4
+851, CJ_urb_rub_2, junkpiles, 59, 4
+852, CJ_urb_rub_4, junkpiles, 59, 4
+853, CJ_urb_rub_5, junkpiles, 59, 4
+854, CJ_urb_rub_3b, junkpiles, 59, 0
+855, genVEG_tallgrass01, gta_proc_rushes, 59, 2105348
+856, genVEG_tallgrass12, gta_proc_ferns, 59, 2105348
+857, procweegrs, gta_proc_grasslanda, 59, 2105348
+858, sand_josh2, bsor_des_josh, 59, 2105348
+859, sand_plant04, gta_deserttrees, 50, 2105348
+860, sand_plant01, gta_deserttrees, 50, 2105348
+861, sand_plant02, gta_deserttrees, 50, 2105348
+862, sand_plant05, gta_deserttrees, 50, 2105348
+863, sand_plant03, bsor_prickly_pear, 50, 2105348
+864, sand_combush1, gta_procdesert, 50, 2105348
+865, sand_combush02, gta_procdesert, 50, 2105348
+866, sand_combush03, gta_procdesert, 50, 2105348
+867, p_rubble04col, gta_rockcuntry, 59, 4
+868, p_rubble05col, gta_rockcuntry, 59, 4
+869, veg_Pflowerswee, gta_procflowers, 59, 2105348
+870, veg_Pflowers2wee, gta_procflowers, 59, 2105348
+871, veg_procfpatchwee, gta_procflowers, 59, 2105348
+872, gen_tallgrsnew, gta_proc_rushes, 59, 2105348
+873, veg_procfpatch, gta_procflowers, 59, 2105348
+874, veg_procgrasspatch, gta_procflowers, 59, 2105348
+875, veg_procfpatch01, gta_procflowers, 59, 2105348
+876, veg_Pflowers03, gta_procflowers, 59, 2105348
+877, veg_Pflowers04, gta_procflowers, 59, 2105348
+878, veg_Pflowers02, gta_procflowers, 59, 2105348
+879, p_rubble04bcol, gta_rockcuntry, 59, 4
+880, p_rubble0bcol, gta_rockcuntry, 59, 4
+881, sm_fir_scabg_PO, gta_tree_pineprc, 59, 2105476
+882, Ash_PO, bsor_tree_prc, 59, 2105348
+883, Cedar3_PO, gta_tree_pineprc, 59, 2105348
+884, Cedar2_PO, gta_tree_pineprc, 59, 2105348
+885, Cedar1_PO, gta_tree_pineprc, 59, 2105348
+886, Elmtreegrn_PO, bsor_elm_prc, 59, 2105348
+887, Elmtreegrn2_PO, bsor_elm_prc, 59, 2105348
+888, Locust_PO, bsor_tree_prc, 59, 2105348
+889, Pinebg_PO, gta_tree_pineprc, 59, 2105348
+890, Elmred_PO, bsor_elm_prc, 59, 2105348
+891, Elmdead_PO, bsor_elm_prc, 59, 2105348
+892, Hazelweetree_PO, bsor_tree_prc, 59, 2105348
+893, Elmredsm_PO, bsor_elm_prc, 59, 
+894, Elmsparsesm_PO, bsor_elm_prc, 59, 2105348
+895, Elmweesm_PO, bsor_elm_prc, 59, 2105348
+896, searock06, underwater, 59, 0
+897, searock01, underwater, 59, 0
+898, searock02, underwater, 59, 0
+899, searock03, underwater, 59, 0
+900, searock04, underwater, 59, 0
+901, searock05, underwater, 59, 0
+902, Starfish, underwater, 20, 0
+903, seaweed, underwater, 60, 2105348
+904, sand_josh1, bsor_des_josh, 59, 12420
+905, rockbrkq, gta_rockcuntry, 59, 4
+906, p_rubblebig, gta_rockcuntry, 59, 4
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
