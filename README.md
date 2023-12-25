@@ -72,6 +72,10 @@ Poti descarca jocul FULL de aici: https://drive.google.com/file/d/1f9sMWcQ9lzxaZ
 ### Iau crash... / am lag ce fac? 😭
 - Poti scoate pe rand cate un mod din folderul modloader pana cand consideri ca jocul ti se misca bine.
 
+### HUD-ul nu-mi apare, de ce??????
+- Daca nu apare HUD-ul puteti incerca sa schimbati rezolutia jocului din setari in 1920x1080.
+- Daca nu aveti 1920x1080, puteti tasta /hassle si in acel meniu aveti 3 casute (puteti bifa a doua).
+
 ### Cum activez ninsoarea?
 - Pentru a activa ninsoarea trebuie sa tii apasat pe **CTRL** si sa apesi **UP (sageata sus)** pentru a creste intensitatea ninsorii.
 - Daca vrei sa dezactivezi ninsoarea trebuie sa tii apasat pe **CTRL** si sa apesi **DOWN (sageata jos)**.
